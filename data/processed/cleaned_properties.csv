@@ -1,0 +1,1092 @@
+property_id,area_sqft,bedrooms,build_year,city,street_type,furnishing,property_type,has_pool,price,is_price_outlier,price_per_sqft,property_age,area_bucket,is_luxury
+1,2473.19,4,1992,Jaipur,Residential Lane,Furnished,Apartment,No,568486.0,False,229.86,34,2000-2500,False
+2,2353.47,4,2006,Indore,Corner Plot,Unfurnished,Apartment,Yes,577214.0,False,245.26,20,2000-2500,False
+3,2212.22,3,2012,Jaipur,Highway Facing,Semi-Furnished,Duplex,No,581300.0,False,262.77,14,2000-2500,False
+4,2823.89,6,1993,Lucknow,Main Road,Unfurnished,Villa,Yes,794614.0,False,281.39,33,2500-3000,False
+5,1869.65,5,2012,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,493086.0,False,263.73,14,1500-2000,False
+6,2073.8,5,1986,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,470693.0,False,226.97,40,2000-2500,False
+7,2103.04,3,2020,Indore,Corner Plot,Unknown,Apartment,No,552164.0,False,262.56,6,2000-2500,False
+8,4316.82,6,2008,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,988286.82,True,228.94,18,3000+,True
+9,2520.17,4,2019,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,583210.0,False,231.42,7,2500-3000,False
+10,2382.19,3,2017,Jaipur,Gated Society,Semi-Furnished,Independent House,Yes,694155.0,False,291.39,9,2000-2500,False
+11,2160.39,6,1998,Prayagraj,Residential Lane,Furnished,Apartment,No,552135.0,False,255.57,28,2000-2500,False
+12,2117.21,4,2016,Lucknow,Gated Society,Semi-Furnished,Duplex,No,608117.0,False,287.23,10,2000-2500,False
+13,1906.07,4,2013,Indore,Highway Facing,Semi-Furnished,Duplex,Yes,551382.0,False,289.28,13,1500-2000,False
+14,1393.17,6,1990,Lucknow,Corner Plot,Semi-Furnished,Duplex,No,480838.0,False,345.14,36,1000-1500,False
+15,1774.28,2,2023,Delhi,Main Road,Semi-Furnished,Apartment,No,516094.0,False,290.88,3,1500-2000,False
+16,1457.84,7,1992,Kanpur,Gated Society,Semi-Furnished,Apartment,No,423867.0,False,290.75,34,1000-1500,False
+17,1833.67,2,1996,Noida,Highway Facing,Furnished,Apartment,No,461212.0,False,251.52,30,1500-2000,False
+18,2256.29,3,2012,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,594145.0,False,263.33,14,2000-2500,False
+19,825.68,7,2016,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,373669.0,False,452.56,10,<1000,False
+20,2124.49,3,1990,Jaipur,Main Road,Furnished,Independent House,No,587632.0,False,276.6,36,2000-2500,False
+21,2634.32,5,2020,Gurugram,Highway Facing,Furnished,Apartment,Yes,759944.0,False,288.48,6,2500-3000,False
+22,2121.1,3,2024,Lucknow,Main Road,Furnished,Duplex,Yes,670503.0,False,316.11,2,2000-2500,False
+23,2342.94,2,2019,Indore,Highway Facing,Unfurnished,Apartment,No,513401.0,False,219.13,7,2000-2500,False
+24,2669.7,7,2009,Prayagraj,Residential Lane,Furnished,Independent House,No,741340.0,False,277.69,17,2500-3000,False
+25,2777.14,2,2020,Delhi,Gated Society,Furnished,Apartment,No,767737.0,False,276.45,6,2500-3000,False
+26,2676.98,2,1996,Kanpur,Gated Society,Semi-Furnished,Duplex,No,664507.0,False,248.23,30,2500-3000,False
+27,1134.99,2,2012,Delhi,Gated Society,Furnished,Independent House,No,471846.0,False,415.73,14,1000-1500,False
+28,3013.92,2,2012,Kanpur,Gated Society,Unfurnished,Independent House,No,692447.0,False,229.75,14,3000+,False
+29,2129.82,7,2015,Delhi,Corner Plot,Furnished,Apartment,No,686516.0,False,322.34,11,2000-2500,False
+30,1954.42,3,2009,Kanpur,Residential Lane,Unfurnished,Apartment,No,428810.0,False,219.41,17,1500-2000,False
+31,2549.31,3,2011,Noida,Main Road,Unfurnished,Apartment,No,583833.0,False,229.02,15,2500-3000,False
+32,2447.38,3,2010,Delhi,Gated Society,Unknown,Apartment,No,720548.0,False,294.42,16,2000-2500,False
+33,1549.2,7,2000,Gurugram,Corner Plot,Semi-Furnished,Apartment,Yes,553767.0,False,357.45,26,1500-2000,False
+34,1539.93,3,2006,Kanpur,Main Road,Furnished,Villa,No,551212.0,False,357.95,20,1500-2000,False
+35,1708.78,2,1992,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,376354.0,False,220.25,34,1500-2000,False
+36,2225.06,4,2024,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,509383.0,False,228.93,2,2000-2500,False
+37,1836.02,5,2010,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,524827.0,False,285.85,16,1500-2000,False
+38,2136.49,7,2009,Prayagraj,Main Road,Unfurnished,Independent House,No,603139.0,False,282.3,17,2000-2500,False
+39,3367.19,4,1996,Gurugram,Gated Society,Furnished,Apartment,No,851078.0,False,252.76,30,3000+,False
+40,2584.5,5,2017,Prayagraj,Residential Lane,Semi-Furnished,Independent House,No,654808.0,False,253.36,9,2500-3000,False
+41,2129.37,3,2003,Delhi,Gated Society,Semi-Furnished,Independent House,No,638105.0,False,299.67,23,2000-2500,False
+42,2389.24,5,2008,Gurugram,Corner Plot,Furnished,Villa,No,797935.0,False,333.97,18,2000-2500,False
+43,2445.46,2,2017,Gurugram,Corner Plot,Furnished,Apartment,No,650435.0,False,265.98,9,2000-2500,False
+44,1969.82,3,2019,Noida,Gated Society,Unfurnished,Apartment,No,528162.0,False,268.13,7,1500-2000,False
+45,1875.85,5,1995,Lucknow,Main Road,Unfurnished,Apartment,No,470946.0,False,251.06,31,1500-2000,False
+46,2503.46,4,2019,Noida,Main Road,Unfurnished,Apartment,No,611440.0,False,244.24,7,2500-3000,False
+47,3054.07,2,2019,Delhi,Main Road,Unknown,Villa,Yes,894422.0,False,292.86,7,3000+,False
+48,2575.07,2,2020,Delhi,Highway Facing,Furnished,Apartment,Yes,701929.0,False,272.59,6,2500-3000,False
+49,3251.77,6,1989,Delhi,Corner Plot,Semi-Furnished,Villa,No,942094.0,False,289.72,37,3000+,True
+50,2543.27,6,2023,Noida,Gated Society,Semi-Furnished,Independent House,No,779298.0,False,306.42,3,2500-3000,False
+51,2688.94,2,2022,Prayagraj,Residential Lane,Semi-Furnished,Duplex,Yes,679739.0,False,252.79,4,2500-3000,False
+52,5648.32,7,2003,Prayagraj,Main Road,Unfurnished,Apartment,No,1355674.05,True,240.01,23,3000+,True
+53,2302.42,5,1990,Gurugram,Gated Society,Semi-Furnished,Independent House,No,690306.0,False,299.82,36,2000-2500,False
+54,1764.55,7,1987,Noida,Corner Plot,Semi-Furnished,Independent House,No,544324.0,False,308.48,39,1500-2000,False
+55,2556.16,2,1987,Kanpur,Main Road,Semi-Furnished,Apartment,No,532557.0,False,208.34,39,2500-3000,False
+56,2011.24,5,2016,Jaipur,Gated Society,Furnished,Duplex,No,698661.0,False,347.38,10,2000-2500,False
+57,2107.56,4,2004,Jaipur,Main Road,Furnished,Apartment,Yes,587094.0,False,278.57,22,2000-2500,False
+58,2990.22,4,1996,Indore,Corner Plot,Furnished,Apartment,No,662008.0,False,221.39,30,2500-3000,False
+59,2454.5,3,2012,Delhi,Corner Plot,Unfurnished,Independent House,Yes,678874.0,False,276.58,14,2000-2500,False
+60,1148.01,5,1997,Prayagraj,Gated Society,Unfurnished,Villa,No,453967.0,False,395.44,29,1000-1500,False
+61,1473.87,7,1989,Delhi,Main Road,Semi-Furnished,Duplex,Yes,648863.0,False,440.24,37,1000-1500,False
+62,2954.81,2,2006,Delhi,Gated Society,Furnished,Apartment,No,744065.0,False,251.81,20,2500-3000,False
+63,2320.28,6,2015,Gurugram,Gated Society,Semi-Furnished,Independent House,No,722931.0,False,311.57,11,2000-2500,False
+64,1845.65,6,1998,Delhi,Highway Facing,Furnished,Apartment,Yes,641824.0,False,347.75,28,1500-2000,False
+65,2384.77,3,2012,Jaipur,Residential Lane,Semi-Furnished,Independent House,No,598958.0,False,251.16,14,2000-2500,False
+66,1915.15,2,1989,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,581398.0,False,303.58,37,1500-2000,False
+67,2968.24,7,1986,Jaipur,Corner Plot,Unfurnished,Independent House,No,713664.0,False,240.43,40,2500-3000,False
+68,2652.84,4,2018,Kanpur,Main Road,Unfurnished,Apartment,No,631656.0,False,238.11,8,2500-3000,False
+69,2739.85,6,2013,Indore,Main Road,Semi-Furnished,Apartment,Yes,715326.0,False,261.08,13,2500-3000,False
+70,2411.24,6,1986,Gurugram,Highway Facing,Furnished,Apartment,No,646834.0,False,268.26,40,2000-2500,False
+71,1594.31,2,1987,Gurugram,Gated Society,Unfurnished,Independent House,No,473554.0,False,297.03,39,1500-2000,False
+72,2538.86,3,2012,Kanpur,Gated Society,Semi-Furnished,Independent House,No,633278.0,False,249.43,14,2500-3000,False
+73,2632.32,2,1998,Gurugram,Main Road,Furnished,Independent House,No,691849.0,False,262.83,28,2500-3000,False
+74,2267.38,4,2001,Delhi,Main Road,Semi-Furnished,Duplex,No,722050.0,False,318.45,25,2000-2500,False
+75,2639.83,7,2010,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,636412.0,False,241.08,16,2500-3000,False
+76,2668.27,7,2002,Gurugram,Highway Facing,Furnished,Apartment,No,716306.0,False,268.45,24,2500-3000,False
+77,2097.2,2,2001,Noida,Corner Plot,Furnished,Apartment,Yes,564036.0,False,268.95,25,2000-2500,False
+78,1002.83,2,2002,Jaipur,Residential Lane,Semi-Furnished,Independent House,Yes,337270.0,False,336.32,24,1000-1500,False
+79,1095.84,6,1990,Indore,Residential Lane,Furnished,Independent House,No,415465.0,False,379.13,36,1000-1500,False
+80,2473.12,6,2006,Kanpur,Corner Plot,Unfurnished,Apartment,Yes,603065.0,False,243.85,20,2000-2500,False
+81,2638.62,7,2014,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,823165.0,False,311.97,12,2500-3000,False
+82,2883.08,6,1990,Lucknow,Highway Facing,Furnished,Independent House,No,731411.0,False,253.69,36,2500-3000,False
+83,3215.84,7,2022,Gurugram,Corner Plot,Furnished,Independent House,No,920438.0,False,286.22,4,3000+,True
+84,2160.58,7,2019,Delhi,Gated Society,Unfurnished,Duplex,No,723076.0,False,334.67,7,2000-2500,False
+85,2404.13,2,2018,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,683072.0,False,284.12,8,2000-2500,False
+86,2134.08,5,2021,Kanpur,Highway Facing,Furnished,Villa,Yes,661582.0,False,310.01,5,2000-2500,False
+87,1827.97,7,2017,Jaipur,Main Road,Furnished,Duplex,No,598689.0,False,327.52,9,1500-2000,False
+88,2656.17,4,2023,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,607511.0,False,228.72,3,2500-3000,False
+89,2386.17,6,2017,Jaipur,Highway Facing,Unfurnished,Apartment,No,578836.0,False,242.58,9,2000-2500,False
+90,1599.74,2,1988,Noida,Gated Society,Unfurnished,Apartment,No,387446.0,False,242.19,38,1500-2000,False
+91,2907.84,6,2013,Lucknow,Gated Society,Semi-Furnished,Independent House,Yes,806607.0,False,277.39,13,2500-3000,False
+92,2427.39,4,2011,Gurugram,Residential Lane,Furnished,Apartment,No,673112.0,False,277.3,15,2000-2500,False
+93,1276.3,4,1996,Indore,Residential Lane,Semi-Furnished,Apartment,No,315242.0,False,247.0,30,1000-1500,False
+94,3180.19,6,1992,Delhi,Corner Plot,Semi-Furnished,Apartment,No,804859.0,False,253.09,34,3000+,False
+95,2018.9,3,2020,Delhi,Main Road,Unfurnished,Independent House,Yes,631937.0,False,313.01,6,2000-2500,False
+96,1269.14,2,1993,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,472178.0,False,372.05,33,1000-1500,False
+97,2778.48,7,1986,Gurugram,Residential Lane,Unfurnished,Independent House,No,717074.0,False,258.08,40,2500-3000,False
+98,2459.43,5,1990,Delhi,Main Road,Unfurnished,Apartment,Yes,636161.0,False,258.66,36,2000-2500,False
+99,1830.14,2,1991,Delhi,Main Road,Semi-Furnished,Duplex,No,546034.0,False,298.36,35,1500-2000,False
+100,1463.2,2,2016,Jaipur,Highway Facing,Furnished,Duplex,Yes,504457.0,False,344.76,10,1000-1500,False
+101,1884.49,6,2013,Indore,Highway Facing,Furnished,Villa,No,640564.0,False,339.91,13,1500-2000,False
+102,2963.72,5,2014,Jaipur,Corner Plot,Furnished,Duplex,No,745201.0,False,251.44,12,2500-3000,False
+103,2117.57,3,2003,Lucknow,Main Road,Furnished,Apartment,No,533862.0,False,252.11,23,2000-2500,False
+104,2714.62,2,1987,Gurugram,Gated Society,Semi-Furnished,Apartment,Yes,699320.0,False,257.61,39,2500-3000,False
+105,2729.53,5,1992,Indore,Highway Facing,Unfurnished,Duplex,Yes,693222.0,False,253.97,34,2500-3000,False
+106,2048.3,3,1991,Delhi,Gated Society,Furnished,Apartment,No,571059.0,False,278.8,35,2000-2500,False
+107,1281.62,3,1985,Lucknow,Highway Facing,Furnished,Apartment,No,365456.0,False,285.15,41,1000-1500,False
+108,1343.85,6,2021,Kanpur,Main Road,Semi-Furnished,Apartment,No,435202.0,False,323.85,5,1000-1500,False
+109,2734.5,2,2001,Indore,Residential Lane,Semi-Furnished,Apartment,No,559053.0,False,204.44,25,2500-3000,False
+110,2293.98,5,2010,Prayagraj,Residential Lane,Furnished,Apartment,No,553604.0,False,241.33,16,2000-2500,False
+111,1303.72,2,2021,Noida,Corner Plot,Furnished,Apartment,No,425004.0,False,325.99,5,1000-1500,False
+112,2340.82,5,1991,Delhi,Residential Lane,Semi-Furnished,Villa,No,746435.0,False,318.88,35,2000-2500,False
+113,1179.87,7,1985,Lucknow,Highway Facing,Furnished,Apartment,Yes,404564.0,False,342.89,41,1000-1500,False
+114,1692.22,2,2023,Kanpur,Residential Lane,Semi-Furnished,Duplex,No,438470.0,False,259.11,3,1500-2000,False
+115,2172.61,3,2020,Gurugram,Highway Facing,Unfurnished,Villa,No,647925.0,False,298.22,6,2000-2500,False
+116,1935.93,5,1993,Delhi,Main Road,Semi-Furnished,Independent House,No,601040.0,False,310.47,33,1500-2000,False
+117,1761.68,3,2021,Gurugram,Residential Lane,Furnished,Apartment,Yes,549138.0,False,311.71,5,1500-2000,False
+118,2565.06,2,1996,Indore,Highway Facing,Semi-Furnished,Villa,No,670293.0,False,261.32,30,2500-3000,False
+119,2907.45,7,1992,Delhi,Corner Plot,Furnished,Duplex,Yes,912260.0,False,313.77,34,2500-3000,True
+120,2436.29,3,2005,Jaipur,Gated Society,Semi-Furnished,Apartment,No,588271.0,False,241.46,21,2000-2500,False
+121,2092.2,6,2002,Lucknow,Highway Facing,Furnished,Villa,No,660047.0,False,315.48,24,2000-2500,False
+122,2426.91,5,2006,Noida,Main Road,Unfurnished,Independent House,No,643510.0,False,265.16,20,2000-2500,False
+123,2245.26,4,2023,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,652525.0,False,290.62,3,2000-2500,False
+124,2705.91,5,1994,Jaipur,Corner Plot,Semi-Furnished,Apartment,Yes,610312.0,False,225.55,32,2500-3000,False
+125,2034.8,7,1988,Prayagraj,Main Road,Furnished,Duplex,No,595978.0,False,292.89,38,2000-2500,False
+126,1675.6,4,2021,Gurugram,Corner Plot,Semi-Furnished,Duplex,No,573055.0,False,342.0,5,1500-2000,False
+127,2172.79,6,2018,Lucknow,Corner Plot,Furnished,Duplex,Yes,716450.0,False,329.74,8,2000-2500,False
+128,2841.91,6,1994,Delhi,Residential Lane,Furnished,Duplex,Yes,880323.0,False,309.76,32,2500-3000,False
+129,2457.71,7,2007,Gurugram,Corner Plot,Unfurnished,Apartment,No,667335.0,False,271.53,19,2000-2500,False
+130,2981.28,7,2001,Indore,Highway Facing,Furnished,Apartment,Yes,753756.0,False,252.83,25,2500-3000,False
+131,3496.56,7,2021,Delhi,Highway Facing,Furnished,Independent House,Yes,1031661.0,True,295.05,5,3000+,True
+132,2162.04,2,1989,Noida,Corner Plot,Unknown,Apartment,No,496390.0,False,229.59,37,2000-2500,False
+133,2181.78,7,2021,Prayagraj,Corner Plot,Furnished,Duplex,Yes,740422.0,False,339.37,5,2000-2500,False
+134,700.0,6,1987,Noida,Highway Facing,Unfurnished,Independent House,No,310136.0,False,443.05,39,<1000,False
+135,2805.91,5,2017,Indore,Main Road,Furnished,Apartment,Yes,735009.0,False,261.95,9,2500-3000,False
+136,1689.45,6,2015,Noida,Highway Facing,Furnished,Duplex,No,623800.0,False,369.23,11,1500-2000,False
+137,1754.07,3,2016,Gurugram,Main Road,Semi-Furnished,Apartment,Yes,557654.0,False,317.92,10,1500-2000,False
+138,2078.34,4,2014,Delhi,Residential Lane,Furnished,Independent House,Yes,689116.0,False,331.57,12,2000-2500,False
+139,2296.55,3,1988,Delhi,Corner Plot,Furnished,Independent House,No,657932.0,False,286.49,38,2000-2500,False
+140,2857.28,4,2002,Indore,Gated Society,Semi-Furnished,Independent House,No,686692.0,False,240.33,24,2500-3000,False
+141,1262.2,6,1995,Jaipur,Highway Facing,Furnished,Apartment,No,428089.0,False,339.16,31,1000-1500,False
+142,2137.85,5,2001,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,644165.0,False,301.31,25,2000-2500,False
+143,2334.09,7,1995,Delhi,Corner Plot,Furnished,Independent House,No,728983.0,False,312.32,31,2000-2500,False
+144,1184.28,3,2022,Prayagraj,Highway Facing,Furnished,Independent House,Yes,422769.0,False,356.98,4,1000-1500,False
+145,2722.78,4,1992,Delhi,Main Road,Furnished,Apartment,Yes,739726.0,False,271.68,34,2500-3000,False
+146,3094.59,4,2013,Prayagraj,Corner Plot,Unfurnished,Apartment,Yes,642562.0,False,207.64,13,3000+,False
+147,3100.96,5,2020,Indore,Main Road,Furnished,Independent House,No,833192.0,False,268.69,6,3000+,False
+148,2689.91,4,1997,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,571063.0,False,212.3,29,2500-3000,False
+149,2868.34,5,2022,Gurugram,Highway Facing,Furnished,Apartment,No,775458.0,False,270.35,4,2500-3000,False
+150,3521.11,5,2017,Indore,Residential Lane,Furnished,Independent House,No,852194.0,False,242.02,9,3000+,False
+151,2064.05,2,1997,Kanpur,Residential Lane,Unfurnished,Apartment,Yes,421054.0,False,203.99,29,2000-2500,False
+152,2705.62,3,2024,Gurugram,Highway Facing,Furnished,Duplex,No,779556.0,False,288.12,2,2500-3000,False
+153,2232.8,3,1996,Noida,Corner Plot,Unfurnished,Apartment,No,503659.0,False,225.57,30,2000-2500,False
+154,2262.99,5,2006,Gurugram,Main Road,Furnished,Apartment,No,626841.0,False,277.0,20,2000-2500,False
+155,2557.65,5,1997,Gurugram,Residential Lane,Furnished,Independent House,No,739390.0,False,289.09,29,2500-3000,False
+156,2514.16,6,2016,Noida,Residential Lane,Semi-Furnished,Apartment,No,664703.0,False,264.38,10,2500-3000,False
+157,1930.67,5,1994,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,544813.0,False,282.19,32,1500-2000,False
+158,2014.86,6,2015,Indore,Corner Plot,Semi-Furnished,Independent House,No,593006.0,False,294.32,11,2000-2500,False
+159,2215.73,3,2016,Noida,Gated Society,Semi-Furnished,Independent House,No,673675.0,False,304.04,10,2000-2500,False
+160,2924.32,3,1996,Noida,Gated Society,Semi-Furnished,Apartment,No,702685.0,False,240.29,30,2500-3000,False
+161,2471.72,3,1998,Jaipur,Gated Society,Unknown,Independent House,No,610801.0,False,247.12,28,2000-2500,False
+162,2498.98,7,2023,Noida,Main Road,Semi-Furnished,Duplex,No,771345.0,False,308.66,3,2000-2500,False
+163,2644.01,2,2024,Lucknow,Gated Society,Furnished,Apartment,No,628098.0,False,237.56,2,2500-3000,False
+164,2117.27,3,2013,Kanpur,Main Road,Semi-Furnished,Apartment,No,516228.0,False,243.82,13,2000-2500,False
+165,3025.42,7,2004,Gurugram,Gated Society,Semi-Furnished,Independent House,No,876479.0,False,289.7,22,3000+,False
+166,2588.97,5,1999,Gurugram,Gated Society,Furnished,Duplex,No,802079.0,False,309.81,27,2500-3000,False
+167,2023.11,3,2013,Gurugram,Gated Society,Unfurnished,Apartment,No,538241.0,False,266.05,13,2000-2500,False
+168,1876.18,5,2004,Indore,Highway Facing,Furnished,Duplex,No,532480.0,False,283.81,22,1500-2000,False
+169,2703.98,4,2007,Lucknow,Gated Society,Furnished,Duplex,No,749753.0,False,277.28,19,2500-3000,False
+170,1797.02,6,1985,Prayagraj,Gated Society,Unfurnished,Apartment,No,454562.0,False,252.95,41,1500-2000,False
+171,2143.44,3,2001,Jaipur,Main Road,Unknown,Duplex,No,600736.0,False,280.27,25,2000-2500,False
+172,2808.04,4,2015,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,679814.0,False,242.1,11,2500-3000,False
+173,2388.34,2,2017,Indore,Gated Society,Unfurnished,Independent House,No,569691.0,False,238.53,9,2000-2500,False
+174,2510.42,6,2022,Kanpur,Highway Facing,Unfurnished,Villa,No,722076.0,False,287.63,4,2500-3000,False
+175,2036.34,4,1985,Kanpur,Main Road,Furnished,Independent House,Yes,597304.0,False,293.32,41,2000-2500,False
+176,2844.37,4,2013,Delhi,Main Road,Semi-Furnished,Apartment,No,773697.0,False,272.01,13,2500-3000,False
+177,1546.33,7,1994,Delhi,Highway Facing,Semi-Furnished,Duplex,No,591557.0,False,382.56,32,1500-2000,False
+178,2249.28,5,2020,Indore,Residential Lane,Semi-Furnished,Independent House,No,581606.0,False,258.57,6,2000-2500,False
+179,2051.17,5,1999,Gurugram,Highway Facing,Furnished,Duplex,Yes,728523.0,False,355.17,27,2000-2500,False
+180,1744.09,7,2002,Prayagraj,Corner Plot,Unfurnished,Independent House,No,500679.0,False,287.07,24,1500-2000,False
+181,1902.82,2,2020,Kanpur,Main Road,Semi-Furnished,Independent House,No,510752.0,False,268.42,6,1500-2000,False
+182,2297.08,2,2010,Lucknow,Residential Lane,Unknown,Duplex,No,573252.0,False,249.56,16,2000-2500,False
+183,2765.86,4,2020,Jaipur,Residential Lane,Furnished,Apartment,Yes,708111.0,False,256.02,6,2500-3000,False
+184,2155.86,6,2001,Prayagraj,Highway Facing,Semi-Furnished,Independent House,Yes,627133.0,False,290.9,25,2000-2500,False
+185,1893.38,6,2009,Gurugram,Gated Society,Semi-Furnished,Apartment,No,571752.0,False,301.97,17,1500-2000,False
+186,3139.7,4,2023,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,691921.0,False,220.38,3,3000+,False
+187,2293.02,5,2024,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,585872.0,False,255.5,2,2000-2500,False
+188,2839.06,6,1986,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,616503.0,False,217.15,40,2500-3000,False
+189,3129.3,5,1987,Noida,Corner Plot,Semi-Furnished,Independent House,Yes,825744.0,False,263.87,39,3000+,False
+190,2056.73,7,2020,Prayagraj,Main Road,Furnished,Apartment,No,620294.0,False,301.59,6,2000-2500,False
+191,2887.03,5,2001,Indore,Corner Plot,Semi-Furnished,Apartment,No,650663.0,False,225.37,25,2500-3000,False
+192,2285.49,5,2018,Lucknow,Main Road,Furnished,Apartment,Yes,690971.0,False,302.33,8,2000-2500,False
+193,1354.95,2,1993,Gurugram,Corner Plot,Furnished,Duplex,No,448660.0,False,331.13,33,1000-1500,False
+194,2400.92,5,2021,Lucknow,Main Road,Furnished,Villa,No,781802.0,False,325.63,5,2000-2500,False
+195,2705.49,7,1998,Indore,Corner Plot,Unfurnished,Apartment,No,624964.0,False,231.0,28,2500-3000,False
+196,2591.75,3,2009,Delhi,Corner Plot,Semi-Furnished,Apartment,No,660279.0,False,254.76,17,2500-3000,False
+197,2357.8,7,2009,Noida,Gated Society,Furnished,Apartment,No,705924.0,False,299.4,17,2000-2500,False
+198,2231.16,5,1997,Lucknow,Residential Lane,Furnished,Duplex,No,626943.0,False,280.99,29,2000-2500,False
+199,1288.96,4,1989,Noida,Main Road,Furnished,Duplex,No,506229.0,False,392.74,37,1000-1500,False
+200,2281.77,2,2007,Gurugram,Gated Society,Furnished,Apartment,Yes,645451.0,False,282.87,19,2000-2500,False
+201,2366.35,5,2017,Jaipur,Main Road,Furnished,Apartment,No,618440.0,False,261.35,9,2000-2500,False
+202,2469.85,7,2023,Prayagraj,Corner Plot,Semi-Furnished,Independent House,No,664271.0,False,268.95,3,2000-2500,False
+203,2409.2,7,1998,Prayagraj,Gated Society,Furnished,Apartment,Yes,637727.0,False,264.7,28,2000-2500,False
+204,1984.64,6,1994,Indore,Gated Society,Furnished,Apartment,No,556562.0,False,280.43,32,1500-2000,False
+205,5505.77,5,1995,Lucknow,Gated Society,Semi-Furnished,Apartment,No,1284263.92,True,233.26,31,3000+,True
+206,2842.52,4,2013,Kanpur,Residential Lane,Unfurnished,Duplex,No,651321.0,False,229.14,13,2500-3000,False
+207,2828.28,5,2013,Noida,Residential Lane,Furnished,Villa,No,817116.0,False,288.91,13,2500-3000,False
+208,2189.91,4,2006,Jaipur,Main Road,Furnished,Independent House,No,638196.0,False,291.43,20,2000-2500,False
+209,2452.98,2,2007,Prayagraj,Main Road,Semi-Furnished,Independent House,No,565138.0,False,230.39,19,2000-2500,False
+210,2132.34,2,1989,Indore,Residential Lane,Semi-Furnished,Duplex,No,506117.0,False,237.35,37,2000-2500,False
+211,1864.01,3,1989,Kanpur,Residential Lane,Furnished,Apartment,No,440623.0,False,236.38,37,1500-2000,False
+212,2533.92,3,1999,Delhi,Corner Plot,Semi-Furnished,Villa,Yes,812307.0,False,320.57,27,2500-3000,False
+213,2450.74,7,1994,Lucknow,Highway Facing,Unfurnished,Independent House,No,667703.0,False,272.45,32,2000-2500,False
+214,3040.66,5,2018,Jaipur,Main Road,Unfurnished,Apartment,Yes,746659.0,False,245.56,8,3000+,False
+215,1625.35,5,2009,Lucknow,Corner Plot,Furnished,Apartment,Yes,469769.0,False,289.03,17,1500-2000,False
+216,2369.07,4,2016,Jaipur,Main Road,Furnished,Independent House,No,675517.0,False,285.14,10,2000-2500,False
+217,1517.27,7,1992,Kanpur,Corner Plot,Furnished,Apartment,No,458809.0,False,302.39,34,1500-2000,False
+218,1744.35,5,2013,Noida,Gated Society,Semi-Furnished,Apartment,No,558550.0,False,320.21,13,1500-2000,False
+219,2192.64,5,1997,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,600130.0,False,273.7,29,2000-2500,False
+220,2289.47,2,2021,Noida,Residential Lane,Furnished,Apartment,Yes,597091.0,False,260.8,5,2000-2500,False
+221,2085.04,3,2018,Noida,Gated Society,Semi-Furnished,Independent House,Yes,644197.0,False,308.96,8,2000-2500,False
+222,1768.31,3,2004,Gurugram,Highway Facing,Unfurnished,Apartment,No,464564.0,False,262.72,22,1500-2000,False
+223,3149.83,7,2019,Kanpur,Gated Society,Furnished,Apartment,Yes,837376.0,False,265.85,7,3000+,False
+224,1971.09,2,1991,Kanpur,Highway Facing,Furnished,Independent House,No,461943.0,False,234.36,35,1500-2000,False
+225,3223.72,7,2008,Noida,Highway Facing,Furnished,Villa,No,981429.0,True,304.44,18,3000+,True
+226,1749.99,7,2008,Kanpur,Residential Lane,Semi-Furnished,Villa,No,592138.0,False,338.37,18,1500-2000,False
+227,700.0,5,2014,Jaipur,Main Road,Furnished,Apartment,No,340017.0,False,485.74,12,<1000,False
+228,3032.4,4,2017,Lucknow,Corner Plot,Unfurnished,Apartment,No,677986.0,False,223.58,9,3000+,False
+229,2831.08,4,2023,Indore,Gated Society,Furnished,Apartment,No,708317.0,False,250.19,3,2500-3000,False
+230,2277.49,6,2003,Kanpur,Residential Lane,Unfurnished,Villa,No,605316.0,False,265.78,23,2000-2500,False
+231,2482.48,3,1989,Noida,Corner Plot,Furnished,Duplex,No,660858.0,False,266.21,37,2000-2500,False
+232,2254.95,5,1990,Kanpur,Corner Plot,Furnished,Apartment,Yes,579518.0,False,257.0,36,2000-2500,False
+233,2170.44,6,2014,Noida,Corner Plot,Furnished,Apartment,No,647913.0,False,298.52,12,2000-2500,False
+234,1611.91,2,1997,Delhi,Gated Society,Unfurnished,Apartment,No,417087.0,False,258.75,29,1500-2000,False
+235,2779.18,6,1988,Gurugram,Residential Lane,Semi-Furnished,Independent House,No,768052.0,False,276.36,38,2500-3000,False
+236,2837.89,7,2021,Noida,Gated Society,Semi-Furnished,Apartment,No,779435.0,False,274.65,5,2500-3000,False
+237,1466.76,2,2005,Delhi,Gated Society,Furnished,Apartment,No,530484.0,False,361.67,21,1000-1500,False
+238,1795.97,7,2017,Prayagraj,Gated Society,Unfurnished,Independent House,No,543491.0,False,302.62,9,1500-2000,False
+239,2297.04,2,2018,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,523061.0,False,227.71,8,2000-2500,False
+240,1953.39,4,2023,Indore,Corner Plot,Semi-Furnished,Duplex,No,606991.0,False,310.74,3,1500-2000,False
+241,2192.52,6,2004,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,584486.0,False,266.58,22,2000-2500,False
+242,2001.74,2,2024,Noida,Main Road,Furnished,Apartment,No,564119.0,False,281.81,2,2000-2500,False
+243,2685.71,2,2019,Lucknow,Main Road,Semi-Furnished,Apartment,Yes,639627.0,False,238.16,7,2500-3000,False
+244,1453.43,5,1994,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,398487.0,False,274.17,32,1000-1500,False
+245,2777.31,7,2024,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,684666.0,False,246.52,2,2500-3000,False
+246,1338.88,4,2024,Lucknow,Main Road,Furnished,Apartment,No,454958.0,False,339.8,2,1000-1500,False
+247,2629.99,6,1988,Kanpur,Highway Facing,Unfurnished,Villa,No,699816.0,False,266.09,38,2500-3000,False
+248,1725.94,6,2009,Lucknow,Main Road,Unfurnished,Apartment,Yes,507814.0,False,294.22,17,1500-2000,False
+249,2361.37,5,2013,Kanpur,Residential Lane,Furnished,Villa,No,696897.0,False,295.12,13,2000-2500,False
+250,1469.63,3,2006,Lucknow,Residential Lane,Furnished,Apartment,No,406431.0,False,276.55,20,1000-1500,False
+251,2334.0,4,2018,Jaipur,Residential Lane,Semi-Furnished,Independent House,No,599056.0,False,256.66,8,2000-2500,False
+252,1364.85,6,1995,Gurugram,Highway Facing,Furnished,Independent House,No,544063.0,False,398.62,31,1000-1500,False
+253,2025.33,5,2023,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,534602.0,False,263.96,3,2000-2500,False
+254,2076.66,3,2009,Jaipur,Gated Society,Furnished,Apartment,Yes,574704.0,False,276.74,17,2000-2500,False
+255,2482.65,5,2001,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,646509.0,False,260.41,25,2000-2500,False
+256,2349.98,4,2011,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,557104.0,False,237.07,15,2000-2500,False
+257,2919.17,4,2004,Indore,Residential Lane,Unfurnished,Apartment,Yes,636259.0,False,217.96,22,2500-3000,False
+258,2497.48,5,2004,Kanpur,Main Road,Furnished,Villa,No,751072.0,False,300.73,22,2000-2500,False
+259,2562.66,7,2022,Lucknow,Main Road,Furnished,Apartment,Yes,731122.0,False,285.3,4,2500-3000,False
+260,1163.14,4,2019,Kanpur,Main Road,Furnished,Duplex,Yes,477632.0,False,410.64,7,1000-1500,False
+261,2435.57,7,2006,Jaipur,Gated Society,Unfurnished,Apartment,No,648987.0,False,266.46,20,2000-2500,False
+262,1305.69,7,2005,Prayagraj,Corner Plot,Furnished,Independent House,No,464099.0,False,355.44,21,1000-1500,False
+263,2299.87,2,1988,Noida,Main Road,Furnished,Independent House,No,638942.0,False,277.82,38,2000-2500,False
+264,1583.77,4,2010,Kanpur,Gated Society,Semi-Furnished,Independent House,Yes,519099.0,False,327.76,16,1500-2000,False
+265,1642.07,5,2012,Lucknow,Gated Society,Unfurnished,Apartment,Yes,506464.0,False,308.43,14,1500-2000,False
+266,2085.8,5,1985,Kanpur,Main Road,Furnished,Apartment,No,428945.0,False,205.65,41,2000-2500,False
+267,2643.61,4,1985,Prayagraj,Main Road,Semi-Furnished,Independent House,No,620559.0,False,234.74,41,2500-3000,False
+268,1491.63,2,1997,Delhi,Main Road,Furnished,Apartment,No,412927.0,False,276.83,29,1000-1500,False
+269,2029.94,6,1993,Delhi,Main Road,Unfurnished,Independent House,No,610049.0,False,300.53,33,2000-2500,False
+270,2307.46,6,1995,Gurugram,Gated Society,Unfurnished,Apartment,Yes,679206.0,False,294.35,31,2000-2500,False
+271,3014.31,6,1996,Delhi,Gated Society,Semi-Furnished,Duplex,No,857208.0,False,284.38,30,3000+,False
+272,2578.32,7,2007,Jaipur,Main Road,Semi-Furnished,Independent House,No,722452.0,False,280.2,19,2500-3000,False
+273,2052.31,5,2002,Jaipur,Corner Plot,Semi-Furnished,Duplex,Yes,606174.0,False,295.36,24,2000-2500,False
+274,1279.06,2,2023,Prayagraj,Main Road,Semi-Furnished,Duplex,No,392299.0,False,306.71,3,1000-1500,False
+275,2230.57,4,1993,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,554545.0,False,248.61,33,2000-2500,False
+276,1570.95,2,1996,Delhi,Gated Society,Semi-Furnished,Duplex,No,540125.0,False,343.82,30,1500-2000,False
+277,1886.42,2,2007,Kanpur,Corner Plot,Semi-Furnished,Duplex,No,501488.0,False,265.84,19,1500-2000,False
+278,6170.58,2,2022,Lucknow,Corner Plot,Unfurnished,Villa,No,1265986.68,True,205.16,4,3000+,True
+279,1199.38,3,2020,Indore,Residential Lane,Furnished,Apartment,No,340411.0,False,283.82,6,1000-1500,False
+280,1669.58,6,1994,Lucknow,Highway Facing,Furnished,Apartment,No,462381.0,False,276.94,32,1500-2000,False
+281,1274.11,7,1989,Indore,Corner Plot,Semi-Furnished,Independent House,No,420434.0,False,329.98,37,1000-1500,False
+282,2215.37,6,1988,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,562495.0,False,253.91,38,2000-2500,False
+283,1207.92,6,2021,Prayagraj,Highway Facing,Unfurnished,Independent House,No,398436.0,False,329.85,5,1000-1500,False
+284,1353.18,7,1988,Delhi,Main Road,Semi-Furnished,Apartment,No,461020.0,False,340.69,38,1000-1500,False
+285,2561.06,4,2018,Gurugram,Residential Lane,Furnished,Apartment,No,664358.0,False,259.41,8,2500-3000,False
+286,1111.39,5,2008,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,329712.0,False,296.67,18,1000-1500,False
+287,2805.53,3,2003,Prayagraj,Corner Plot,Unfurnished,Independent House,Yes,688445.0,False,245.39,23,2500-3000,False
+288,3115.44,7,1996,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,774294.0,False,248.53,30,3000+,False
+289,2001.1,3,1996,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,544019.0,False,271.86,30,2000-2500,False
+290,2171.39,3,2020,Delhi,Highway Facing,Semi-Furnished,Independent House,No,672398.0,False,309.66,6,2000-2500,False
+291,2780.83,7,2011,Gurugram,Corner Plot,Unfurnished,Independent House,No,775968.0,False,279.04,15,2500-3000,False
+292,1637.22,7,1987,Prayagraj,Gated Society,Unfurnished,Apartment,No,423201.0,False,258.49,39,1500-2000,False
+293,3276.39,4,1987,Noida,Gated Society,Semi-Furnished,Villa,No,879204.0,False,268.35,39,3000+,False
+294,1708.11,2,2014,Gurugram,Residential Lane,Semi-Furnished,Villa,Yes,595748.0,False,348.78,12,1500-2000,False
+295,2598.8,2,1999,Indore,Gated Society,Unfurnished,Villa,Yes,716676.0,False,275.77,27,2500-3000,False
+296,2392.04,2,2018,Indore,Corner Plot,Semi-Furnished,Apartment,Yes,583847.0,False,244.08,8,2000-2500,False
+297,1764.17,5,1997,Noida,Gated Society,Unfurnished,Independent House,No,542807.0,False,307.68,29,1500-2000,False
+298,1945.2,3,2000,Noida,Residential Lane,Semi-Furnished,Independent House,No,525186.0,False,269.99,26,1500-2000,False
+299,2434.57,4,1992,Indore,Highway Facing,Furnished,Independent House,No,607920.0,False,249.7,34,2000-2500,False
+300,2294.67,5,1997,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,581487.0,False,253.41,29,2000-2500,False
+301,2204.38,7,1994,Indore,Corner Plot,Semi-Furnished,Independent House,No,627455.0,False,284.64,32,2000-2500,False
+302,1339.3,6,2008,Kanpur,Corner Plot,Furnished,Villa,No,536364.0,False,400.48,18,1000-1500,False
+303,2185.93,7,2018,Noida,Highway Facing,Furnished,Apartment,Yes,657825.0,False,300.94,8,2000-2500,False
+304,2588.75,7,2022,Indore,Residential Lane,Semi-Furnished,Apartment,No,669520.0,False,258.63,4,2500-3000,False
+305,2301.7,3,1988,Jaipur,Highway Facing,Semi-Furnished,Duplex,No,552552.0,False,240.06,38,2000-2500,False
+306,2414.76,6,2001,Noida,Gated Society,Semi-Furnished,Independent House,No,712198.0,False,294.94,25,2000-2500,False
+307,2487.23,6,2021,Lucknow,Highway Facing,Unfurnished,Independent House,No,640407.0,False,257.48,5,2000-2500,False
+308,1860.29,4,2003,Noida,Main Road,Semi-Furnished,Duplex,No,575363.0,False,309.29,23,1500-2000,False
+309,1009.41,3,2000,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,339788.0,False,336.62,26,1000-1500,False
+310,2556.48,6,2018,Indore,Corner Plot,Semi-Furnished,Apartment,No,651971.0,False,255.03,8,2500-3000,False
+311,1545.82,7,1985,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,457816.0,False,296.16,41,1500-2000,False
+312,2222.51,5,1994,Prayagraj,Residential Lane,Furnished,Apartment,Yes,538612.0,False,242.34,32,2000-2500,False
+313,2080.08,7,2001,Lucknow,Gated Society,Semi-Furnished,Duplex,No,604316.0,False,290.53,25,2000-2500,False
+314,3309.85,5,2012,Delhi,Corner Plot,Unfurnished,Apartment,No,806467.0,False,243.66,14,3000+,False
+315,2069.27,7,1991,Prayagraj,Main Road,Unfurnished,Independent House,Yes,589328.0,False,284.8,35,2000-2500,False
+316,1518.49,4,2020,Lucknow,Highway Facing,Furnished,Duplex,No,486913.0,False,320.66,6,1500-2000,False
+317,2568.62,6,2006,Indore,Highway Facing,Semi-Furnished,Duplex,Yes,735937.0,False,286.51,20,2500-3000,False
+318,1859.04,5,2007,Lucknow,Residential Lane,Unfurnished,Apartment,No,487759.0,False,262.37,19,1500-2000,False
+319,3369.54,4,1999,Kanpur,Main Road,Furnished,Independent House,No,804911.0,False,238.88,27,3000+,False
+320,2658.09,2,1994,Gurugram,Highway Facing,Unfurnished,Independent House,No,635589.0,False,239.11,32,2500-3000,False
+321,2817.58,5,2022,Lucknow,Main Road,Unfurnished,Independent House,No,722279.0,False,256.35,4,2500-3000,False
+322,1601.01,3,2022,Jaipur,Gated Society,Unfurnished,Duplex,No,500176.0,False,312.41,4,1500-2000,False
+323,2560.06,7,2002,Kanpur,Gated Society,Semi-Furnished,Independent House,No,707935.0,False,276.53,24,2500-3000,False
+324,2168.32,6,2017,Gurugram,Gated Society,Semi-Furnished,Apartment,Yes,712315.0,False,328.51,9,2000-2500,False
+325,1781.07,5,2019,Indore,Highway Facing,Unfurnished,Independent House,No,507771.0,False,285.09,7,1500-2000,False
+326,1966.92,4,2007,Kanpur,Residential Lane,Unfurnished,Apartment,Yes,436734.0,False,222.04,19,1500-2000,False
+327,2434.24,6,1992,Lucknow,Main Road,Semi-Furnished,Villa,No,715307.0,False,293.85,34,2000-2500,False
+328,2368.31,6,1994,Lucknow,Corner Plot,Furnished,Independent House,No,669879.0,False,282.85,32,2000-2500,False
+329,1817.38,3,1992,Kanpur,Gated Society,Furnished,Apartment,No,440413.0,False,242.33,34,1500-2000,False
+330,4122.73,2,1987,Prayagraj,Highway Facing,Furnished,Apartment,No,783551.0,False,190.06,39,3000+,False
+331,2630.56,6,2013,Gurugram,Residential Lane,Semi-Furnished,Apartment,No,663785.0,False,252.34,13,2500-3000,False
+332,2207.85,4,1989,Delhi,Residential Lane,Semi-Furnished,Apartment,Yes,581842.0,False,263.53,37,2000-2500,False
+333,3125.95,4,2005,Noida,Highway Facing,Furnished,Apartment,No,742183.0,False,237.43,21,3000+,False
+334,2095.98,5,2007,Jaipur,Residential Lane,Furnished,Independent House,No,608667.0,False,290.4,19,2000-2500,False
+335,1897.1,7,2012,Gurugram,Corner Plot,Furnished,Duplex,No,665807.0,False,350.96,14,1500-2000,False
+336,1703.16,4,2024,Lucknow,Residential Lane,Unfurnished,Apartment,Yes,455563.0,False,267.48,2,1500-2000,False
+337,2234.75,2,2007,Lucknow,Gated Society,Furnished,Apartment,Yes,611642.0,False,273.7,19,2000-2500,False
+338,2579.63,6,1994,Jaipur,Gated Society,Furnished,Apartment,Yes,662883.0,False,256.97,32,2500-3000,False
+339,2869.56,5,1997,Noida,Gated Society,Semi-Furnished,Villa,No,875090.0,False,304.96,29,2500-3000,False
+340,1946.86,4,2020,Indore,Gated Society,Semi-Furnished,Apartment,No,504996.0,False,259.39,6,1500-2000,False
+341,1490.51,3,1994,Noida,Main Road,Furnished,Independent House,Yes,491501.0,False,329.75,32,1000-1500,False
+342,967.63,5,2009,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,396485.0,False,409.75,17,<1000,False
+343,2533.7,3,2024,Jaipur,Highway Facing,Unfurnished,Apartment,Yes,600368.0,False,236.95,2,2500-3000,False
+344,2087.29,2,2013,Kanpur,Corner Plot,Unfurnished,Duplex,Yes,543691.0,False,260.48,13,2000-2500,False
+345,2782.01,6,1985,Noida,Corner Plot,Unfurnished,Independent House,No,719639.0,False,258.68,41,2500-3000,False
+346,2038.32,5,2019,Noida,Main Road,Unfurnished,Apartment,Yes,592208.0,False,290.54,7,2000-2500,False
+347,2625.77,4,1990,Delhi,Highway Facing,Semi-Furnished,Apartment,No,632613.0,False,240.92,36,2500-3000,False
+348,1629.68,7,2019,Indore,Highway Facing,Unfurnished,Villa,No,580074.0,False,355.94,7,1500-2000,False
+349,2779.77,3,2006,Prayagraj,Highway Facing,Unfurnished,Duplex,No,659643.0,False,237.3,20,2500-3000,False
+350,1362.7,2,2012,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,348115.0,False,255.46,14,1000-1500,False
+351,2880.66,4,1986,Jaipur,Corner Plot,Unfurnished,Villa,Yes,735024.0,False,255.16,40,2500-3000,False
+352,1892.55,4,2013,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,531981.0,False,281.09,13,1500-2000,False
+353,2387.62,2,2011,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,557996.0,False,233.7,15,2000-2500,False
+354,2608.51,3,2022,Gurugram,Highway Facing,Furnished,Duplex,No,773899.0,False,296.68,4,2500-3000,False
+355,1899.33,5,2003,Jaipur,Residential Lane,Furnished,Apartment,No,496189.0,False,261.24,23,1500-2000,False
+356,2854.45,7,2020,Noida,Gated Society,Furnished,Apartment,Yes,866047.0,False,303.4,6,2500-3000,False
+357,3385.43,4,2006,Prayagraj,Highway Facing,Unfurnished,Independent House,No,722182.0,False,213.32,20,3000+,False
+358,1923.12,2,1988,Delhi,Corner Plot,Unfurnished,Apartment,No,462812.0,False,240.66,38,1500-2000,False
+359,2616.85,7,2022,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,774097.0,False,295.81,4,2500-3000,False
+360,2374.1,5,1999,Gurugram,Main Road,Semi-Furnished,Duplex,No,704351.0,False,296.68,27,2000-2500,False
+361,2345.12,2,2004,Jaipur,Main Road,Unfurnished,Apartment,Yes,511282.0,False,218.02,22,2000-2500,False
+362,1664.79,7,2017,Noida,Residential Lane,Unfurnished,Apartment,No,465668.0,False,279.72,9,1500-2000,False
+363,1194.89,7,1987,Delhi,Highway Facing,Semi-Furnished,Apartment,No,441893.0,False,369.82,39,1000-1500,False
+364,2575.83,7,2009,Lucknow,Corner Plot,Unknown,Duplex,No,693482.0,False,269.23,17,2500-3000,False
+365,2749.63,4,2022,Lucknow,Residential Lane,Semi-Furnished,Duplex,No,698466.0,False,254.02,4,2500-3000,False
+366,1936.52,2,1997,Indore,Gated Society,Semi-Furnished,Apartment,No,423451.0,False,218.67,29,1500-2000,False
+367,1825.48,4,1998,Delhi,Main Road,Unfurnished,Apartment,Yes,526554.0,False,288.45,28,1500-2000,False
+368,3018.25,5,2005,Gurugram,Gated Society,Unfurnished,Apartment,No,751820.0,False,249.09,21,3000+,False
+369,2142.73,3,2007,Prayagraj,Residential Lane,Unfurnished,Villa,No,573527.0,False,267.66,19,2000-2500,False
+370,2501.89,6,2020,Delhi,Residential Lane,Furnished,Apartment,No,716750.0,False,286.48,6,2500-3000,False
+371,2550.84,5,2019,Delhi,Gated Society,Semi-Furnished,Villa,No,881591.0,False,345.61,7,2500-3000,False
+372,2431.05,2,2006,Jaipur,Gated Society,Semi-Furnished,Independent House,No,627913.0,False,258.29,20,2000-2500,False
+373,2077.79,6,2001,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,575031.0,False,276.75,25,2000-2500,False
+374,2405.85,7,2001,Indore,Residential Lane,Unfurnished,Apartment,No,532360.0,False,221.28,25,2000-2500,False
+375,2815.38,3,1993,Gurugram,Highway Facing,Furnished,Independent House,Yes,793980.0,False,282.02,33,2500-3000,False
+376,2342.19,2,2017,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,632082.0,False,269.87,9,2000-2500,False
+377,2200.25,4,1997,Noida,Gated Society,Semi-Furnished,Apartment,No,560495.0,False,254.74,29,2000-2500,False
+378,1691.02,6,2023,Noida,Main Road,Furnished,Apartment,Yes,609180.0,False,360.24,3,1500-2000,False
+379,2127.35,2,2023,Delhi,Main Road,Unfurnished,Independent House,No,614305.0,False,288.77,3,2000-2500,False
+380,2715.57,4,2016,Indore,Main Road,Semi-Furnished,Independent House,No,684181.0,False,251.95,10,2500-3000,False
+381,2076.34,7,2000,Lucknow,Highway Facing,Furnished,Independent House,Yes,684000.0,False,329.43,26,2000-2500,False
+382,2932.47,2,1999,Prayagraj,Main Road,Unfurnished,Duplex,No,648234.0,False,221.05,27,2500-3000,False
+383,2048.36,5,2024,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,505238.0,False,246.65,2,2000-2500,False
+384,2860.04,5,2013,Prayagraj,Highway Facing,Furnished,Apartment,No,664154.0,False,232.22,13,2500-3000,False
+385,1856.61,7,1988,Lucknow,Highway Facing,Unknown,Independent House,No,535068.0,False,288.2,38,1500-2000,False
+386,2085.08,5,2015,Prayagraj,Main Road,Semi-Furnished,Apartment,No,564296.0,False,270.64,11,2000-2500,False
+387,2863.6,7,2023,Lucknow,Main Road,Furnished,Apartment,No,808151.0,False,282.22,3,2500-3000,False
+388,1759.46,5,1993,Kanpur,Gated Society,Furnished,Apartment,No,514018.0,False,292.15,33,1500-2000,False
+389,1506.09,3,2020,Prayagraj,Residential Lane,Furnished,Apartment,No,428913.0,False,284.79,6,1500-2000,False
+390,1757.22,4,2024,Noida,Corner Plot,Semi-Furnished,Independent House,No,588997.0,False,335.19,2,1500-2000,False
+391,3342.56,3,1996,Jaipur,Residential Lane,Unfurnished,Apartment,No,690644.0,False,206.62,30,3000+,False
+392,3096.87,4,2022,Prayagraj,Main Road,Semi-Furnished,Villa,No,863792.0,False,278.92,4,3000+,False
+393,1229.29,4,2020,Noida,Gated Society,Unfurnished,Villa,No,530984.0,False,431.94,6,1000-1500,False
+394,1816.78,5,2021,Delhi,Corner Plot,Unknown,Independent House,No,656896.0,False,361.57,5,1500-2000,False
+395,1891.12,4,1999,Indore,Residential Lane,Unfurnished,Apartment,No,387854.0,False,205.09,27,1500-2000,False
+396,2237.39,6,1991,Kanpur,Residential Lane,Unfurnished,Apartment,No,467369.0,False,208.89,35,2000-2500,False
+397,1810.99,4,2004,Prayagraj,Highway Facing,Unknown,Duplex,No,475835.0,False,262.75,22,1500-2000,False
+398,2146.46,2,2019,Gurugram,Gated Society,Unfurnished,Independent House,Yes,634895.0,False,295.79,7,2000-2500,False
+399,2794.97,4,2006,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,614875.0,False,219.99,20,2500-3000,False
+400,2219.32,3,2019,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,520116.0,False,234.36,7,2000-2500,False
+401,2306.46,4,1986,Gurugram,Main Road,Furnished,Independent House,No,646715.0,False,280.39,40,2000-2500,False
+402,2402.21,4,1989,Lucknow,Residential Lane,Semi-Furnished,Villa,No,606197.0,False,252.35,37,2000-2500,False
+403,2580.5,4,2016,Noida,Highway Facing,Semi-Furnished,Apartment,No,672642.0,False,260.66,10,2500-3000,False
+404,3279.42,2,1994,Delhi,Corner Plot,Semi-Furnished,Apartment,No,742963.0,False,226.55,32,3000+,False
+405,2251.19,2,2013,Noida,Corner Plot,Semi-Furnished,Apartment,No,539797.0,False,239.78,13,2000-2500,False
+406,2101.47,5,2004,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,592040.0,False,281.73,22,2000-2500,False
+407,1755.91,5,2000,Gurugram,Gated Society,Unfurnished,Independent House,No,563382.0,False,320.85,26,1500-2000,False
+408,2867.05,2,2019,Prayagraj,Residential Lane,Semi-Furnished,Independent House,Yes,669607.0,False,233.55,7,2500-3000,False
+409,2520.19,6,2014,Lucknow,Gated Society,Unfurnished,Villa,Yes,794063.0,False,315.08,12,2500-3000,False
+410,2086.78,3,1991,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,523582.0,False,250.9,35,2000-2500,False
+411,1263.78,4,1992,Indore,Corner Plot,Unfurnished,Apartment,Yes,334950.0,False,265.04,34,1000-1500,False
+412,1455.15,5,2021,Lucknow,Residential Lane,Furnished,Duplex,Yes,528270.0,False,363.03,5,1000-1500,False
+413,1145.05,5,2016,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,380806.0,False,332.57,10,1000-1500,False
+414,1415.49,7,2007,Jaipur,Residential Lane,Unfurnished,Apartment,Yes,454653.0,False,321.2,19,1000-1500,False
+415,1547.78,6,2009,Gurugram,Corner Plot,Unfurnished,Duplex,No,507405.0,False,327.83,17,1500-2000,False
+416,9022.28,6,2001,Indore,Corner Plot,Furnished,Independent House,No,1396460.45,True,154.78,25,3000+,True
+417,3358.21,5,2022,Jaipur,Main Road,Unfurnished,Apartment,No,758201.0,False,225.78,4,3000+,False
+418,1910.61,2,2016,Prayagraj,Gated Society,Unfurnished,Apartment,Yes,436953.0,False,228.7,10,1500-2000,False
+419,3247.28,3,1998,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,714977.0,False,220.18,28,3000+,False
+420,1709.22,7,2012,Gurugram,Corner Plot,Semi-Furnished,Apartment,Yes,597697.0,False,349.69,14,1500-2000,False
+421,2317.4,7,1992,Kanpur,Main Road,Unfurnished,Apartment,No,566849.0,False,244.61,34,2000-2500,False
+422,2881.03,6,1989,Delhi,Main Road,Furnished,Independent House,Yes,840400.0,False,291.7,37,2500-3000,False
+423,3591.26,5,1997,Noida,Residential Lane,Furnished,Apartment,No,843466.0,False,234.87,29,3000+,False
+424,1777.92,2,1999,Indore,Residential Lane,Furnished,Duplex,Yes,498850.0,False,280.58,27,1500-2000,False
+425,2278.15,4,2010,Prayagraj,Gated Society,Semi-Furnished,Villa,No,686412.0,False,301.3,16,2000-2500,False
+426,2175.39,3,2001,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,560119.0,False,257.48,25,2000-2500,False
+427,2230.98,5,1993,Delhi,Corner Plot,Furnished,Apartment,No,622559.0,False,279.05,33,2000-2500,False
+428,1886.59,2,1992,Kanpur,Corner Plot,Semi-Furnished,Villa,No,525318.0,False,278.45,34,1500-2000,False
+429,2986.01,4,2015,Indore,Residential Lane,Semi-Furnished,Independent House,No,699413.0,False,234.23,11,2500-3000,False
+430,2103.44,3,2022,Indore,Highway Facing,Semi-Furnished,Villa,Yes,670455.0,False,318.74,4,2000-2500,False
+431,1813.5,2,2005,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,447745.0,False,246.9,21,1500-2000,False
+432,1597.51,5,1986,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,392781.0,False,245.87,40,1500-2000,False
+433,2061.47,6,2016,Lucknow,Corner Plot,Unfurnished,Apartment,No,538148.0,False,261.05,10,2000-2500,False
+434,1867.81,4,2012,Noida,Main Road,Unfurnished,Apartment,No,495874.0,False,265.48,14,1500-2000,False
+435,2552.26,5,2011,Indore,Corner Plot,Furnished,Apartment,Yes,666378.0,False,261.09,15,2500-3000,False
+436,2666.96,4,2008,Noida,Main Road,Unfurnished,Villa,No,756358.0,False,283.6,18,2500-3000,False
+437,2675.86,6,1987,Indore,Main Road,Furnished,Apartment,No,654455.0,False,244.58,39,2500-3000,False
+438,1678.1,5,2007,Lucknow,Corner Plot,Unfurnished,Apartment,No,422310.0,False,251.66,19,1500-2000,False
+439,1592.57,2,1986,Noida,Gated Society,Semi-Furnished,Villa,Yes,594695.0,False,373.42,40,1500-2000,False
+440,2393.88,2,2022,Noida,Residential Lane,Furnished,Independent House,No,637432.0,False,266.28,4,2000-2500,False
+441,2833.62,5,1989,Gurugram,Corner Plot,Semi-Furnished,Independent House,No,736450.0,False,259.9,37,2500-3000,False
+442,3250.18,4,2024,Delhi,Corner Plot,Furnished,Villa,No,975210.0,True,300.05,2,3000+,True
+443,2132.51,6,2021,Prayagraj,Gated Society,Furnished,Duplex,Yes,712933.0,False,334.32,5,2000-2500,False
+444,2583.2,4,2014,Lucknow,Corner Plot,Unfurnished,Villa,No,719380.0,False,278.48,12,2500-3000,False
+445,2415.93,6,2012,Delhi,Residential Lane,Semi-Furnished,Apartment,No,698296.0,False,289.04,14,2000-2500,False
+446,1972.52,6,1985,Jaipur,Residential Lane,Semi-Furnished,Villa,No,636031.0,False,322.45,41,1500-2000,False
+447,2148.5,6,2000,Jaipur,Main Road,Furnished,Apartment,No,608594.0,False,283.26,26,2000-2500,False
+448,2162.45,7,1990,Kanpur,Gated Society,Semi-Furnished,Villa,No,670916.0,False,310.26,36,2000-2500,False
+449,1807.02,4,1990,Noida,Main Road,Semi-Furnished,Independent House,No,549409.0,False,304.04,36,1500-2000,False
+450,2103.32,7,1990,Noida,Residential Lane,Furnished,Duplex,No,667946.0,False,317.57,36,2000-2500,False
+451,1958.02,5,1999,Gurugram,Corner Plot,Semi-Furnished,Independent House,No,605938.0,False,309.46,27,1500-2000,False
+452,2605.49,3,2024,Prayagraj,Main Road,Unfurnished,Duplex,No,621939.0,False,238.7,2,2500-3000,False
+453,3077.83,7,1998,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,725788.0,False,235.81,28,3000+,False
+454,2254.49,3,2015,Indore,Highway Facing,Furnished,Apartment,Yes,553496.0,False,245.51,11,2000-2500,False
+455,959.13,6,2000,Noida,Residential Lane,Furnished,Villa,No,488705.0,False,509.53,26,<1000,False
+456,1558.57,7,2007,Kanpur,Residential Lane,Furnished,Apartment,No,423257.0,False,271.57,19,1500-2000,False
+457,2201.55,3,2002,Noida,Main Road,Furnished,Independent House,Yes,691496.0,False,314.1,24,2000-2500,False
+458,2075.89,4,1995,Indore,Corner Plot,Furnished,Apartment,No,507119.0,False,244.29,31,2000-2500,False
+459,2448.39,7,2019,Lucknow,Highway Facing,Semi-Furnished,Villa,No,751730.0,False,307.03,7,2000-2500,False
+460,914.23,4,1993,Gurugram,Gated Society,Furnished,Apartment,Yes,397161.0,False,434.42,33,<1000,False
+461,963.52,5,2018,Indore,Main Road,Unfurnished,Independent House,Yes,426338.0,False,442.48,8,<1000,False
+462,1609.22,2,2009,Lucknow,Residential Lane,Furnished,Apartment,No,421346.0,False,261.83,17,1500-2000,False
+463,1606.8,7,1986,Noida,Residential Lane,Furnished,Apartment,No,479516.0,False,298.43,40,1500-2000,False
+464,1149.85,6,2010,Delhi,Corner Plot,Furnished,Apartment,No,502703.0,False,437.19,16,1000-1500,False
+465,1666.09,5,2023,Noida,Highway Facing,Semi-Furnished,Independent House,Yes,617520.0,False,370.64,3,1500-2000,False
+466,1892.15,7,2024,Prayagraj,Highway Facing,Unfurnished,Apartment,Yes,542070.0,False,286.48,2,1500-2000,False
+467,2549.61,6,2010,Lucknow,Gated Society,Semi-Furnished,Apartment,Yes,686053.0,False,269.08,16,2500-3000,False
+468,1687.34,6,2021,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,524124.0,False,310.62,5,1500-2000,False
+469,1841.91,5,2011,Prayagraj,Corner Plot,Semi-Furnished,Apartment,No,473534.0,False,257.09,15,1500-2000,False
+470,1488.4,5,1993,Gurugram,Corner Plot,Semi-Furnished,Villa,Yes,585898.0,False,393.64,33,1000-1500,False
+471,2738.13,3,1989,Kanpur,Highway Facing,Semi-Furnished,Independent House,Yes,655862.0,False,239.53,37,2500-3000,False
+472,1992.81,3,1993,Jaipur,Corner Plot,Unfurnished,Villa,Yes,584193.0,False,293.15,33,1500-2000,False
+473,2691.12,6,2015,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,661336.0,False,245.75,11,2500-3000,False
+474,3046.86,7,2023,Gurugram,Main Road,Unknown,Apartment,No,866541.0,False,284.4,3,3000+,False
+475,2505.57,5,2015,Gurugram,Corner Plot,Furnished,Independent House,No,785730.0,False,313.59,11,2500-3000,False
+476,2563.98,3,2008,Gurugram,Residential Lane,Unknown,Apartment,No,653198.0,False,254.76,18,2500-3000,False
+477,1646.55,6,1994,Indore,Main Road,Semi-Furnished,Independent House,No,494788.0,False,300.5,32,1500-2000,False
+478,2356.06,5,2011,Noida,Residential Lane,Semi-Furnished,Apartment,No,586710.0,False,249.02,15,2000-2500,False
+479,2857.37,5,2023,Delhi,Highway Facing,Semi-Furnished,Apartment,No,765134.0,False,267.78,3,2500-3000,False
+480,2754.09,7,1986,Lucknow,Gated Society,Semi-Furnished,Independent House,Yes,744548.0,False,270.34,40,2500-3000,False
+481,1774.8,7,2021,Kanpur,Residential Lane,Unfurnished,Apartment,No,469874.0,False,264.75,5,1500-2000,False
+482,2442.72,5,2006,Indore,Gated Society,Unfurnished,Villa,No,694893.0,False,284.48,20,2000-2500,False
+483,2850.23,3,2022,Indore,Gated Society,Furnished,Apartment,No,718734.0,False,252.17,4,2500-3000,False
+484,2852.7,7,2023,Kanpur,Corner Plot,Furnished,Independent House,Yes,842541.0,False,295.35,3,2500-3000,False
+485,1116.5,5,2001,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,360127.0,False,322.55,25,1000-1500,False
+486,3044.33,4,1998,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,795355.0,False,261.26,28,3000+,False
+487,2843.61,4,2004,Delhi,Gated Society,Furnished,Independent House,No,821867.0,False,289.02,22,2500-3000,False
+488,2980.03,5,2011,Jaipur,Main Road,Furnished,Apartment,Yes,738207.0,False,247.72,15,2500-3000,False
+489,2980.19,3,2000,Kanpur,Highway Facing,Unfurnished,Apartment,No,550654.0,False,184.77,26,2500-3000,False
+490,1750.26,6,2004,Prayagraj,Highway Facing,Semi-Furnished,Independent House,No,474259.0,False,270.96,22,1500-2000,False
+491,1765.97,5,2004,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,514696.0,False,291.45,22,1500-2000,False
+492,1549.97,5,2006,Jaipur,Gated Society,Unfurnished,Apartment,No,445485.0,False,287.42,20,1500-2000,False
+493,2354.06,3,2010,Prayagraj,Corner Plot,Unfurnished,Independent House,No,519673.0,False,220.76,16,2000-2500,False
+494,1787.11,4,2010,Gurugram,Residential Lane,Semi-Furnished,Independent House,No,546875.0,False,306.01,16,1500-2000,False
+495,1739.26,3,2012,Indore,Highway Facing,Furnished,Duplex,No,499438.0,False,287.16,14,1500-2000,False
+496,1815.37,4,2021,Indore,Main Road,Unfurnished,Villa,Yes,634092.0,False,349.29,5,1500-2000,False
+497,2544.76,7,1995,Delhi,Gated Society,Furnished,Independent House,No,810413.0,False,318.46,31,2500-3000,False
+498,2151.58,7,2013,Lucknow,Highway Facing,Semi-Furnished,Duplex,No,652572.0,False,303.3,13,2000-2500,False
+499,1064.27,6,1999,Delhi,Highway Facing,Furnished,Independent House,No,480821.0,False,451.78,27,1000-1500,False
+500,1754.03,3,2022,Delhi,Residential Lane,Semi-Furnished,Apartment,No,550456.0,False,313.82,4,1500-2000,False
+501,1914.04,2,1991,Noida,Highway Facing,Furnished,Apartment,No,469069.0,False,245.07,35,1500-2000,False
+502,1585.24,2,1988,Noida,Corner Plot,Semi-Furnished,Independent House,Yes,473086.0,False,298.43,38,1500-2000,False
+503,2316.92,6,2008,Noida,Corner Plot,Furnished,Independent House,No,719731.0,False,310.64,18,2000-2500,False
+504,2087.64,5,2013,Jaipur,Highway Facing,Semi-Furnished,Independent House,Yes,633445.0,False,303.43,13,2000-2500,False
+505,2478.07,5,2014,Gurugram,Residential Lane,Semi-Furnished,Villa,Yes,827457.0,False,333.91,12,2000-2500,False
+506,1811.3,6,1985,Noida,Residential Lane,Furnished,Independent House,No,579209.0,False,319.78,41,1500-2000,False
+507,2144.24,6,2002,Prayagraj,Main Road,Unfurnished,Apartment,No,502894.0,False,234.53,24,2000-2500,False
+508,2490.68,2,2005,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,589388.0,False,236.64,21,2000-2500,False
+509,2036.71,5,2002,Gurugram,Residential Lane,Semi-Furnished,Apartment,No,550647.0,False,270.36,24,2000-2500,False
+510,1865.96,3,1995,Noida,Corner Plot,Semi-Furnished,Villa,No,591482.0,False,316.99,31,1500-2000,False
+511,2898.04,7,2009,Prayagraj,Highway Facing,Unfurnished,Independent House,No,714081.0,False,246.4,17,2500-3000,False
+512,1460.78,2,1993,Kanpur,Gated Society,Semi-Furnished,Villa,Yes,518235.0,False,354.77,33,1000-1500,False
+513,1350.59,3,1999,Gurugram,Highway Facing,Furnished,Apartment,No,423088.0,False,313.26,27,1000-1500,False
+514,1903.97,7,1997,Gurugram,Residential Lane,Furnished,Independent House,No,627069.0,False,329.35,29,1500-2000,False
+515,3132.65,2,1998,Delhi,Residential Lane,Furnished,Independent House,No,816228.0,False,260.56,28,3000+,False
+516,1973.5,4,2000,Indore,Main Road,Furnished,Apartment,No,509604.0,False,258.22,26,1500-2000,False
+517,1299.32,2,2007,Jaipur,Gated Society,Unfurnished,Apartment,No,341830.0,False,263.08,19,1000-1500,False
+518,2737.8,3,2012,Gurugram,Main Road,Semi-Furnished,Apartment,No,640702.0,False,234.02,14,2500-3000,False
+519,1644.17,3,1987,Kanpur,Gated Society,Furnished,Apartment,No,412477.0,False,250.87,39,1500-2000,False
+520,2472.91,3,1994,Noida,Corner Plot,Furnished,Apartment,No,596088.0,False,241.05,32,2000-2500,False
+521,2849.35,4,2023,Kanpur,Gated Society,Furnished,Apartment,Yes,730792.0,False,256.48,3,2500-3000,False
+522,2377.64,7,2003,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,662076.0,False,278.46,23,2000-2500,False
+523,2439.12,6,2021,Noida,Highway Facing,Semi-Furnished,Independent House,No,720000.0,False,295.19,5,2000-2500,False
+524,2826.3,7,2000,Gurugram,Corner Plot,Unknown,Apartment,No,750199.0,False,265.44,26,2500-3000,False
+525,2479.71,3,2024,Delhi,Main Road,Semi-Furnished,Apartment,Yes,733298.0,False,295.72,2,2000-2500,False
+526,2705.84,7,1997,Jaipur,Main Road,Semi-Furnished,Apartment,No,692892.0,False,256.07,29,2500-3000,False
+527,1615.18,4,2024,Jaipur,Residential Lane,Furnished,Independent House,No,498476.0,False,308.62,2,1500-2000,False
+528,2851.32,2,2015,Indore,Gated Society,Semi-Furnished,Apartment,Yes,665479.0,False,233.39,11,2500-3000,False
+529,1907.7,2,2012,Delhi,Residential Lane,Furnished,Independent House,No,552965.0,False,289.86,14,1500-2000,False
+530,2746.66,6,1995,Indore,Highway Facing,Furnished,Independent House,No,694051.0,False,252.69,31,2500-3000,False
+531,2328.03,2,2008,Kanpur,Main Road,Furnished,Apartment,No,522624.0,False,224.49,18,2000-2500,False
+532,2325.99,2,2000,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,574016.0,False,246.78,26,2000-2500,False
+533,1744.96,2,2018,Indore,Residential Lane,Furnished,Independent House,Yes,494215.0,False,283.22,8,1500-2000,False
+534,1344.22,2,2023,Noida,Main Road,Furnished,Apartment,No,468688.0,False,348.67,3,1000-1500,False
+535,2881.77,5,2024,Delhi,Residential Lane,Unfurnished,Apartment,No,720187.0,False,249.91,2,2500-3000,False
+536,3467.0,3,1986,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,666830.0,False,192.34,40,3000+,False
+537,2391.22,7,1993,Gurugram,Highway Facing,Unfurnished,Apartment,Yes,640032.0,False,267.66,33,2000-2500,False
+538,1983.96,6,1994,Delhi,Corner Plot,Semi-Furnished,Independent House,No,607180.0,False,306.04,32,1500-2000,False
+539,2297.74,6,2007,Noida,Highway Facing,Unfurnished,Apartment,No,602865.0,False,262.37,19,2000-2500,False
+540,1955.31,2,1986,Noida,Corner Plot,Furnished,Independent House,No,517095.0,False,264.46,40,1500-2000,False
+541,1822.03,7,2004,Gurugram,Highway Facing,Furnished,Independent House,No,602535.0,False,330.69,22,1500-2000,False
+542,2466.34,5,2019,Delhi,Highway Facing,Unfurnished,Apartment,No,665149.0,False,269.69,7,2000-2500,False
+543,1926.69,7,2024,Noida,Corner Plot,Semi-Furnished,Independent House,No,643117.0,False,333.79,2,1500-2000,False
+544,2629.07,4,1994,Delhi,Residential Lane,Unfurnished,Independent House,No,673346.0,False,256.12,32,2500-3000,False
+545,2203.95,4,2010,Kanpur,Residential Lane,Furnished,Apartment,Yes,525154.0,False,238.28,16,2000-2500,False
+546,2192.11,6,2023,Indore,Highway Facing,Unfurnished,Apartment,No,547437.0,False,249.73,3,2000-2500,False
+547,2766.2,7,1988,Gurugram,Gated Society,Furnished,Independent House,No,832818.0,False,301.07,38,2500-3000,False
+548,2855.44,5,2007,Gurugram,Residential Lane,Semi-Furnished,Apartment,Yes,737272.0,False,258.2,19,2500-3000,False
+549,2250.11,2,2019,Indore,Highway Facing,Semi-Furnished,Apartment,No,540137.0,False,240.05,7,2000-2500,False
+550,2460.18,6,2015,Lucknow,Corner Plot,Furnished,Apartment,Yes,698704.0,False,284.01,11,2000-2500,False
+551,2240.0,5,1992,Kanpur,Gated Society,Furnished,Villa,No,695371.0,False,310.43,34,2000-2500,False
+552,2122.08,6,2009,Indore,Highway Facing,Furnished,Apartment,Yes,579905.0,False,273.27,17,2000-2500,False
+553,2747.57,6,2004,Prayagraj,Highway Facing,Unfurnished,Duplex,No,708820.0,False,257.98,22,2500-3000,False
+554,1736.63,3,1986,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,394250.0,False,227.02,40,1500-2000,False
+555,1939.6,4,2021,Prayagraj,Residential Lane,Furnished,Apartment,Yes,537781.0,False,277.26,5,1500-2000,False
+556,1806.93,7,2017,Delhi,Main Road,Semi-Furnished,Apartment,No,619430.0,False,342.81,9,1500-2000,False
+557,2153.81,4,2016,Noida,Main Road,Semi-Furnished,Duplex,No,651173.0,False,302.34,10,2000-2500,False
+558,2058.11,3,2008,Prayagraj,Residential Lane,Semi-Furnished,Independent House,Yes,528851.0,False,256.96,18,2000-2500,False
+559,2728.39,2,1999,Kanpur,Highway Facing,Furnished,Independent House,No,640946.0,False,234.92,27,2500-3000,False
+560,2556.0,7,2006,Lucknow,Main Road,Unfurnished,Apartment,No,596022.0,False,233.19,20,2500-3000,False
+561,1663.55,4,1996,Indore,Highway Facing,Furnished,Duplex,No,524302.0,False,315.17,30,1500-2000,False
+562,1463.46,7,2019,Prayagraj,Highway Facing,Unfurnished,Independent House,No,468898.0,False,320.4,7,1000-1500,False
+563,1802.75,7,2002,Delhi,Main Road,Unfurnished,Duplex,No,627680.0,False,348.18,24,1500-2000,False
+564,1658.91,2,2018,Prayagraj,Main Road,Unfurnished,Independent House,No,442639.0,False,266.83,8,1500-2000,False
+565,2522.39,5,2024,Lucknow,Main Road,Unfurnished,Independent House,Yes,690207.0,False,273.63,2,2500-3000,False
+566,2229.44,5,1999,Prayagraj,Corner Plot,Unfurnished,Apartment,No,499272.0,False,223.95,27,2000-2500,False
+567,3103.11,3,2001,Kanpur,Main Road,Semi-Furnished,Apartment,No,672526.0,False,216.73,25,3000+,False
+568,1728.93,3,1990,Jaipur,Residential Lane,Unknown,Apartment,No,417965.0,False,241.75,36,1500-2000,False
+569,2638.35,4,1989,Jaipur,Residential Lane,Furnished,Duplex,Yes,709616.0,False,268.96,37,2500-3000,False
+570,2923.13,3,2019,Jaipur,Gated Society,Furnished,Duplex,No,776584.0,False,265.67,7,2500-3000,False
+571,2850.04,2,1985,Lucknow,Residential Lane,Furnished,Independent House,No,646664.0,False,226.9,41,2500-3000,False
+572,1956.3,2,2017,Jaipur,Residential Lane,Semi-Furnished,Duplex,Yes,578205.0,False,295.56,9,1500-2000,False
+573,2615.32,7,2011,Indore,Highway Facing,Unfurnished,Apartment,No,672240.0,False,257.04,15,2500-3000,False
+574,2912.83,7,2010,Noida,Main Road,Semi-Furnished,Apartment,No,744381.0,False,255.55,16,2500-3000,False
+575,1801.81,7,2017,Prayagraj,Main Road,Furnished,Independent House,Yes,620608.0,False,344.44,9,1500-2000,False
+576,1995.48,2,2001,Indore,Residential Lane,Semi-Furnished,Independent House,Yes,498474.0,False,249.8,25,1500-2000,False
+577,2276.94,6,2001,Indore,Corner Plot,Unfurnished,Apartment,Yes,592179.0,False,260.08,25,2000-2500,False
+578,2929.28,5,2002,Indore,Highway Facing,Furnished,Apartment,No,673320.0,False,229.86,24,2500-3000,False
+579,1371.22,4,2010,Delhi,Residential Lane,Furnished,Duplex,No,537743.0,False,392.16,16,1000-1500,False
+580,1883.27,3,2017,Delhi,Corner Plot,Unfurnished,Villa,No,584590.0,False,310.41,9,1500-2000,False
+581,1760.03,3,2019,Lucknow,Gated Society,Semi-Furnished,Apartment,No,443062.0,False,251.74,7,1500-2000,False
+582,1888.39,7,1985,Noida,Residential Lane,Semi-Furnished,Independent House,Yes,605901.0,False,320.86,41,1500-2000,False
+583,1986.19,2,1998,Noida,Main Road,Semi-Furnished,Independent House,No,583043.0,False,293.55,28,1500-2000,False
+584,1713.71,5,2010,Prayagraj,Residential Lane,Semi-Furnished,Independent House,No,430877.0,False,251.43,16,1500-2000,False
+585,1854.42,3,1993,Prayagraj,Main Road,Unfurnished,Independent House,No,441189.0,False,237.91,33,1500-2000,False
+586,2460.66,4,1996,Indore,Corner Plot,Semi-Furnished,Apartment,No,541348.0,False,220.0,30,2000-2500,False
+587,2214.48,6,2020,Lucknow,Corner Plot,Unfurnished,Independent House,Yes,657809.0,False,297.05,6,2000-2500,False
+588,1871.66,4,1990,Prayagraj,Highway Facing,Furnished,Apartment,Yes,436874.0,False,233.42,36,1500-2000,False
+589,1563.73,4,1989,Prayagraj,Main Road,Semi-Furnished,Apartment,No,394701.0,False,252.41,37,1500-2000,False
+590,2546.58,3,2008,Jaipur,Residential Lane,Unfurnished,Independent House,No,554804.0,False,217.86,18,2500-3000,False
+591,1865.48,7,2015,Lucknow,Corner Plot,Furnished,Independent House,No,614322.0,False,329.31,11,1500-2000,False
+592,2511.42,3,1989,Lucknow,Main Road,Semi-Furnished,Apartment,Yes,591075.0,False,235.35,37,2500-3000,False
+593,2504.23,5,2013,Prayagraj,Residential Lane,Furnished,Independent House,No,639094.0,False,255.21,13,2500-3000,False
+594,2502.93,2,1985,Kanpur,Gated Society,Semi-Furnished,Apartment,No,527024.0,False,210.56,41,2500-3000,False
+595,3103.86,4,1994,Prayagraj,Gated Society,Furnished,Independent House,No,763786.0,False,246.08,32,3000+,False
+596,3024.01,5,2016,Noida,Highway Facing,Furnished,Villa,No,884376.0,False,292.45,10,3000+,False
+597,2290.53,2,1995,Delhi,Corner Plot,Semi-Furnished,Apartment,No,565545.0,False,246.91,31,2000-2500,False
+598,2408.84,2,2005,Jaipur,Main Road,Semi-Furnished,Independent House,No,623102.0,False,258.67,21,2000-2500,False
+599,1987.45,3,2008,Kanpur,Corner Plot,Furnished,Apartment,No,499259.0,False,251.21,18,1500-2000,False
+600,2588.88,6,2024,Noida,Highway Facing,Semi-Furnished,Apartment,No,742073.0,False,286.64,2,2500-3000,False
+601,1843.43,2,1996,Prayagraj,Main Road,Unknown,Duplex,No,457379.0,False,248.11,30,1500-2000,False
+602,2709.78,6,2003,Noida,Highway Facing,Furnished,Villa,No,869636.0,False,320.92,23,2500-3000,False
+603,2331.72,3,1997,Lucknow,Residential Lane,Furnished,Apartment,No,536703.0,False,230.17,29,2000-2500,False
+604,1971.96,7,1993,Prayagraj,Gated Society,Semi-Furnished,Duplex,No,618145.0,False,313.47,33,1500-2000,False
+605,1677.0,3,1999,Jaipur,Corner Plot,Semi-Furnished,Apartment,Yes,450193.0,False,268.45,27,1500-2000,False
+606,2514.6,2,1988,Noida,Gated Society,Furnished,Apartment,Yes,639144.0,False,254.17,38,2500-3000,False
+607,1554.7,4,2023,Jaipur,Highway Facing,Furnished,Villa,Yes,612160.0,False,393.75,3,1500-2000,False
+608,3123.27,6,2009,Noida,Gated Society,Furnished,Apartment,Yes,828379.0,False,265.23,17,3000+,False
+609,794.03,5,2012,Prayagraj,Residential Lane,Unfurnished,Villa,No,362270.0,False,456.24,14,<1000,False
+610,2291.87,7,1995,Lucknow,Gated Society,Furnished,Independent House,No,694050.0,False,302.83,31,2000-2500,False
+611,2527.52,7,1999,Gurugram,Highway Facing,Furnished,Duplex,Yes,798935.0,False,316.09,27,2500-3000,False
+612,1646.78,3,2020,Delhi,Gated Society,Unfurnished,Independent House,No,527653.0,False,320.41,6,1500-2000,False
+613,3333.45,3,1998,Delhi,Gated Society,Furnished,Apartment,No,841504.0,False,252.44,28,3000+,False
+614,1714.65,3,2001,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,488412.0,False,284.85,25,1500-2000,False
+615,2549.89,3,2008,Kanpur,Highway Facing,Semi-Furnished,Duplex,Yes,629956.0,False,247.05,18,2500-3000,False
+616,1006.03,2,1997,Lucknow,Corner Plot,Semi-Furnished,Villa,No,373658.0,False,371.42,29,1000-1500,False
+617,2635.07,3,1996,Indore,Corner Plot,Unfurnished,Apartment,No,550117.0,False,208.77,30,2500-3000,False
+618,2322.7,5,2000,Jaipur,Main Road,Semi-Furnished,Duplex,No,665811.0,False,286.65,26,2000-2500,False
+619,1676.8,7,2020,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,489954.0,False,292.2,6,1500-2000,False
+620,1933.7,3,1986,Noida,Residential Lane,Furnished,Apartment,No,465074.0,False,240.51,40,1500-2000,False
+621,1303.13,4,2005,Lucknow,Main Road,Furnished,Apartment,Yes,427607.0,False,328.14,21,1000-1500,False
+622,1936.68,5,2024,Jaipur,Highway Facing,Unfurnished,Apartment,No,503673.0,False,260.07,2,1500-2000,False
+623,2417.69,6,2020,Noida,Main Road,Unfurnished,Apartment,No,650928.0,False,269.24,6,2000-2500,False
+624,2572.45,7,2007,Kanpur,Main Road,Unfurnished,Apartment,Yes,657127.0,False,255.45,19,2500-3000,False
+625,1294.22,6,2003,Delhi,Gated Society,Furnished,Independent House,No,586043.0,False,452.82,23,1000-1500,False
+626,2488.08,4,2003,Kanpur,Residential Lane,Unfurnished,Independent House,No,591204.0,False,237.61,23,2000-2500,False
+627,3221.16,2,1989,Prayagraj,Highway Facing,Furnished,Duplex,No,711736.0,False,220.96,37,3000+,False
+628,1915.33,6,2002,Gurugram,Corner Plot,Furnished,Duplex,Yes,685190.0,False,357.74,24,1500-2000,False
+629,2297.56,4,2003,Lucknow,Main Road,Furnished,Villa,No,656963.0,False,285.94,23,2000-2500,False
+630,1894.12,7,2023,Noida,Highway Facing,Semi-Furnished,Independent House,No,626727.0,False,330.88,3,1500-2000,False
+631,2001.98,5,2015,Jaipur,Corner Plot,Furnished,Independent House,No,646793.0,False,323.08,11,2000-2500,False
+632,2748.7,7,1992,Gurugram,Residential Lane,Furnished,Apartment,No,719403.0,False,261.72,34,2500-3000,False
+633,1161.86,4,1998,Jaipur,Corner Plot,Furnished,Apartment,No,347599.0,False,299.17,28,1000-1500,False
+634,2050.03,5,2015,Prayagraj,Corner Plot,Furnished,Apartment,No,485379.0,False,236.77,11,2000-2500,False
+635,2162.53,3,1999,Noida,Main Road,Furnished,Independent House,No,623407.0,False,288.28,27,2000-2500,False
+636,2617.96,3,1990,Prayagraj,Residential Lane,Furnished,Apartment,No,578760.0,False,221.07,36,2500-3000,False
+637,2727.52,6,2016,Kanpur,Residential Lane,Furnished,Apartment,Yes,711620.0,False,260.9,10,2500-3000,False
+638,1364.85,6,1986,Jaipur,Main Road,Furnished,Villa,Yes,577467.0,False,423.1,40,1000-1500,False
+639,1711.96,5,2009,Lucknow,Gated Society,Semi-Furnished,Independent House,No,565231.0,False,330.17,17,1500-2000,False
+640,1981.98,2,1986,Lucknow,Residential Lane,Furnished,Independent House,Yes,515115.0,False,259.9,40,1500-2000,False
+641,6680.51,4,2019,Lucknow,Gated Society,Semi-Furnished,Duplex,No,1366762.17,True,204.59,7,3000+,True
+642,2574.75,5,1997,Delhi,Main Road,Unfurnished,Independent House,No,688488.0,False,267.4,29,2500-3000,False
+643,2089.74,6,2010,Jaipur,Gated Society,Semi-Furnished,Independent House,No,601347.0,False,287.76,16,2000-2500,False
+644,1840.36,4,1991,Kanpur,Main Road,Furnished,Independent House,No,511156.0,False,277.75,35,1500-2000,False
+645,2157.57,5,1991,Prayagraj,Highway Facing,Furnished,Apartment,No,504223.0,False,233.7,35,2000-2500,False
+646,1378.11,7,2004,Lucknow,Main Road,Unfurnished,Independent House,Yes,516095.0,False,374.49,22,1000-1500,False
+647,1871.85,6,2023,Kanpur,Gated Society,Unfurnished,Independent House,No,604897.0,False,323.15,3,1500-2000,False
+648,1626.6,4,2002,Indore,Highway Facing,Semi-Furnished,Independent House,Yes,476333.0,False,292.84,24,1500-2000,False
+649,1532.89,6,2012,Prayagraj,Corner Plot,Semi-Furnished,Apartment,No,446372.0,False,291.2,14,1500-2000,False
+650,1865.89,6,2022,Lucknow,Residential Lane,Unfurnished,Independent House,No,527382.0,False,282.64,4,1500-2000,False
+651,3721.38,6,2023,Gurugram,Gated Society,Unfurnished,Apartment,No,924877.0,False,248.53,3,3000+,True
+652,2794.03,6,2023,Kanpur,Residential Lane,Furnished,Villa,No,825096.0,False,295.31,3,2500-3000,False
+653,2931.71,4,2019,Jaipur,Main Road,Unknown,Apartment,No,690087.0,False,235.39,7,2500-3000,False
+654,2136.63,3,1994,Noida,Residential Lane,Semi-Furnished,Duplex,Yes,603264.0,False,282.34,32,2000-2500,False
+655,1435.72,7,2005,Kanpur,Main Road,Unfurnished,Independent House,Yes,515166.0,False,358.82,21,1000-1500,False
+656,2515.41,3,2022,Noida,Gated Society,Furnished,Independent House,No,745682.0,False,296.45,4,2500-3000,False
+657,2256.37,5,2015,Indore,Highway Facing,Furnished,Independent House,No,623455.0,False,276.31,11,2000-2500,False
+658,1895.8,4,2022,Gurugram,Main Road,Semi-Furnished,Apartment,No,571570.0,False,301.49,4,1500-2000,False
+659,2503.54,5,1992,Jaipur,Residential Lane,Furnished,Independent House,No,656681.0,False,262.3,34,2500-3000,False
+660,2310.25,6,2000,Prayagraj,Gated Society,Unknown,Independent House,No,653100.0,False,282.7,26,2000-2500,False
+661,2252.65,7,2017,Delhi,Highway Facing,Furnished,Apartment,No,689598.0,False,306.13,9,2000-2500,False
+662,2610.89,5,1992,Prayagraj,Residential Lane,Furnished,Apartment,No,613935.0,False,235.14,34,2500-3000,False
+663,3226.97,3,2002,Lucknow,Gated Society,Semi-Furnished,Duplex,No,810033.0,False,251.02,24,3000+,False
+664,1938.28,6,2014,Gurugram,Highway Facing,Furnished,Independent House,Yes,685243.0,False,353.53,12,1500-2000,False
+665,2187.34,3,2019,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,507919.0,False,232.21,7,2000-2500,False
+666,2459.52,4,1985,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,582821.0,False,236.97,41,2000-2500,False
+667,1672.67,4,2023,Jaipur,Main Road,Unfurnished,Apartment,No,420936.0,False,251.66,3,1500-2000,False
+668,2579.76,5,2004,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,664738.0,False,257.67,22,2500-3000,False
+669,2658.97,3,2003,Indore,Highway Facing,Furnished,Independent House,No,618721.0,False,232.69,23,2500-3000,False
+670,1931.76,2,2002,Prayagraj,Corner Plot,Semi-Furnished,Independent House,No,485855.0,False,251.51,24,1500-2000,False
+671,2734.94,4,1993,Delhi,Gated Society,Furnished,Apartment,No,732500.0,False,267.83,33,2500-3000,False
+672,3269.53,3,2023,Gurugram,Corner Plot,Furnished,Apartment,Yes,833496.0,False,254.93,3,3000+,False
+673,2356.47,5,1996,Kanpur,Corner Plot,Furnished,Villa,No,694331.0,False,294.65,30,2000-2500,False
+674,2272.7,2,2017,Noida,Main Road,Furnished,Apartment,No,591822.0,False,260.4,9,2000-2500,False
+675,1953.58,7,2013,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,512760.0,False,262.47,13,1500-2000,False
+676,2084.22,3,1989,Jaipur,Gated Society,Unfurnished,Apartment,Yes,506362.0,False,242.95,37,2000-2500,False
+677,1871.97,5,2013,Delhi,Gated Society,Furnished,Apartment,No,619770.0,False,331.08,13,1500-2000,False
+678,2215.44,2,1997,Gurugram,Main Road,Furnished,Apartment,No,572456.0,False,258.39,29,2000-2500,False
+679,2894.51,3,2016,Kanpur,Gated Society,Unknown,Independent House,No,728194.0,False,251.58,10,2500-3000,False
+680,1776.74,2,2018,Jaipur,Highway Facing,Unfurnished,Independent House,No,465865.0,False,262.2,8,1500-2000,False
+681,2047.35,4,1996,Noida,Highway Facing,Semi-Furnished,Apartment,No,543166.0,False,265.3,30,2000-2500,False
+682,1796.7,6,2014,Delhi,Main Road,Furnished,Independent House,No,648950.0,False,361.19,12,1500-2000,False
+683,1525.66,4,2007,Indore,Residential Lane,Semi-Furnished,Independent House,No,459576.0,False,301.23,19,1500-2000,False
+684,2549.13,5,2017,Gurugram,Main Road,Furnished,Villa,No,818945.0,False,321.26,9,2500-3000,False
+685,1454.18,6,2012,Delhi,Residential Lane,Semi-Furnished,Independent House,Yes,589015.0,False,405.05,14,1000-1500,False
+686,2222.77,2,2002,Kanpur,Residential Lane,Semi-Furnished,Duplex,Yes,555390.0,False,249.86,24,2000-2500,False
+687,1090.46,7,1986,Kanpur,Residential Lane,Semi-Furnished,Independent House,No,321702.0,False,295.01,40,1000-1500,False
+688,2071.57,3,2001,Prayagraj,Residential Lane,Unfurnished,Apartment,No,465769.0,False,224.84,25,2000-2500,False
+689,2225.06,4,1998,Jaipur,Residential Lane,Unfurnished,Independent House,No,545932.0,False,245.36,28,2000-2500,False
+690,1888.44,2,1999,Delhi,Gated Society,Unfurnished,Duplex,No,558091.0,False,295.53,27,1500-2000,False
+691,2037.86,3,1990,Indore,Main Road,Semi-Furnished,Apartment,No,444955.0,False,218.34,36,2000-2500,False
+692,2457.53,5,2013,Prayagraj,Main Road,Furnished,Apartment,No,615193.0,False,250.33,13,2000-2500,False
+693,2693.65,7,2013,Kanpur,Corner Plot,Furnished,Duplex,Yes,814401.0,False,302.34,13,2500-3000,False
+694,1760.0,4,1986,Noida,Highway Facing,Semi-Furnished,Duplex,No,519337.0,False,295.08,40,1500-2000,False
+695,2901.3,2,1987,Noida,Main Road,Semi-Furnished,Apartment,No,654270.0,False,225.51,39,2500-3000,False
+696,2235.12,5,2020,Delhi,Highway Facing,Furnished,Duplex,Yes,749831.0,False,335.48,6,2000-2500,False
+697,2469.54,7,2006,Prayagraj,Main Road,Unfurnished,Apartment,No,603776.0,False,244.49,20,2000-2500,False
+698,1112.61,2,2023,Prayagraj,Highway Facing,Unfurnished,Apartment,No,287984.0,False,258.84,3,1000-1500,False
+699,2597.55,6,2005,Lucknow,Gated Society,Unfurnished,Independent House,No,689572.0,False,265.47,21,2500-3000,False
+700,2494.14,2,1986,Noida,Main Road,Furnished,Independent House,No,658649.0,False,264.08,40,2000-2500,False
+701,2274.09,5,2009,Gurugram,Corner Plot,Unfurnished,Independent House,Yes,674803.0,False,296.74,17,2000-2500,False
+702,2359.24,5,2015,Indore,Main Road,Furnished,Independent House,Yes,684447.0,False,290.11,11,2000-2500,False
+703,1722.46,5,1997,Jaipur,Main Road,Furnished,Apartment,No,487603.0,False,283.09,29,1500-2000,False
+704,2521.58,2,2024,Indore,Residential Lane,Semi-Furnished,Apartment,No,546820.0,False,216.86,2,2500-3000,False
+705,1834.02,6,2006,Noida,Residential Lane,Furnished,Duplex,No,629517.0,False,343.24,20,1500-2000,False
+706,1653.06,4,2010,Jaipur,Gated Society,Furnished,Independent House,No,548043.0,False,331.53,16,1500-2000,False
+707,2555.07,7,2013,Gurugram,Gated Society,Semi-Furnished,Independent House,No,789462.0,False,308.98,13,2500-3000,False
+708,2549.2,2,1988,Indore,Gated Society,Furnished,Villa,No,741103.0,False,290.72,38,2500-3000,False
+709,2089.6,2,2000,Gurugram,Residential Lane,Furnished,Apartment,No,504517.0,False,241.44,26,2000-2500,False
+710,2769.43,4,2020,Indore,Main Road,Semi-Furnished,Apartment,No,631711.0,False,228.1,6,2500-3000,False
+711,2016.69,6,2022,Kanpur,Main Road,Semi-Furnished,Duplex,No,620077.0,False,307.47,4,2000-2500,False
+712,2286.77,6,2010,Noida,Residential Lane,Semi-Furnished,Apartment,No,622814.0,False,272.36,16,2000-2500,False
+713,1662.01,7,2024,Noida,Gated Society,Semi-Furnished,Independent House,Yes,647236.0,False,389.43,2,1500-2000,False
+714,2141.82,7,2002,Delhi,Corner Plot,Semi-Furnished,Apartment,No,638596.0,False,298.16,24,2000-2500,False
+715,2317.99,7,2012,Jaipur,Highway Facing,Unfurnished,Villa,Yes,771495.0,False,332.83,14,2000-2500,False
+716,1148.78,5,1999,Prayagraj,Gated Society,Unfurnished,Independent House,No,382053.0,False,332.57,27,1000-1500,False
+717,2090.83,3,2022,Noida,Highway Facing,Semi-Furnished,Apartment,No,530276.0,False,253.62,4,2000-2500,False
+718,1890.99,3,1998,Gurugram,Main Road,Unfurnished,Independent House,No,540206.0,False,285.67,28,1500-2000,False
+719,1849.92,7,2012,Delhi,Gated Society,Semi-Furnished,Duplex,No,701811.0,False,379.37,14,1500-2000,False
+720,2154.54,5,2016,Prayagraj,Gated Society,Furnished,Independent House,Yes,708014.0,False,328.61,10,2000-2500,False
+721,2305.0,6,2005,Delhi,Highway Facing,Furnished,Apartment,Yes,709247.0,False,307.7,21,2000-2500,False
+722,1185.25,6,2001,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,371885.0,False,313.76,25,1000-1500,False
+723,2077.84,6,2008,Indore,Highway Facing,Semi-Furnished,Apartment,Yes,561467.0,False,270.22,18,2000-2500,False
+724,2266.58,6,2018,Noida,Highway Facing,Unfurnished,Duplex,No,680122.0,False,300.07,8,2000-2500,False
+725,1107.92,5,2008,Kanpur,Gated Society,Semi-Furnished,Apartment,No,362466.0,False,327.16,18,1000-1500,False
+726,2283.35,3,2021,Jaipur,Corner Plot,Unfurnished,Apartment,No,493058.0,False,215.94,5,2000-2500,False
+727,2226.81,7,2012,Lucknow,Residential Lane,Unfurnished,Apartment,Yes,548593.0,False,246.36,14,2000-2500,False
+728,1642.65,6,1991,Noida,Highway Facing,Semi-Furnished,Villa,Yes,598037.0,False,364.07,35,1500-2000,False
+729,1574.07,3,2009,Lucknow,Main Road,Semi-Furnished,Apartment,No,416493.0,False,264.6,17,1500-2000,False
+730,2803.1,5,2005,Kanpur,Main Road,Unfurnished,Independent House,No,632116.0,False,225.51,21,2500-3000,False
+731,1441.12,3,1995,Lucknow,Highway Facing,Furnished,Duplex,No,447982.0,False,310.86,31,1000-1500,False
+732,2293.96,3,2013,Noida,Corner Plot,Semi-Furnished,Apartment,No,583046.0,False,254.17,13,2000-2500,False
+733,2763.08,5,2024,Indore,Highway Facing,Furnished,Apartment,No,678692.0,False,245.63,2,2500-3000,False
+734,1584.0,2,1992,Noida,Main Road,Furnished,Apartment,No,431796.0,False,272.6,34,1500-2000,False
+735,2132.16,5,2009,Kanpur,Residential Lane,Furnished,Villa,No,656952.0,False,308.12,17,2000-2500,False
+736,1800.18,2,2022,Prayagraj,Highway Facing,Furnished,Apartment,No,389902.0,False,216.59,4,1500-2000,False
+737,2797.91,2,2000,Delhi,Corner Plot,Furnished,Independent House,No,745298.0,False,266.38,26,2500-3000,False
+738,1891.93,7,1997,Delhi,Residential Lane,Semi-Furnished,Apartment,No,567850.0,False,300.14,29,1500-2000,False
+739,2629.04,2,2009,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,563730.0,False,214.42,17,2500-3000,False
+740,1811.2,7,1988,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,539603.0,False,297.93,38,1500-2000,False
+741,2028.76,7,2013,Delhi,Residential Lane,Semi-Furnished,Apartment,No,641477.0,False,316.19,13,2000-2500,False
+742,1894.51,3,2010,Delhi,Residential Lane,Unfurnished,Independent House,No,544405.0,False,287.36,16,1500-2000,False
+743,2168.15,2,1986,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,408435.0,False,188.38,40,2000-2500,False
+744,2207.69,5,1996,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,559067.0,False,253.24,30,2000-2500,False
+745,2531.9,3,1989,Gurugram,Main Road,Semi-Furnished,Duplex,Yes,716318.0,False,282.92,37,2500-3000,False
+746,2234.46,7,2023,Noida,Main Road,Semi-Furnished,Independent House,No,741838.0,False,332.0,3,2000-2500,False
+747,2102.86,7,2011,Jaipur,Corner Plot,Unfurnished,Independent House,No,579881.0,False,275.76,15,2000-2500,False
+748,2078.1,5,2000,Gurugram,Gated Society,Furnished,Independent House,Yes,714204.0,False,343.68,26,2000-2500,False
+749,1861.9,2,1999,Noida,Corner Plot,Unfurnished,Independent House,Yes,508792.0,False,273.26,27,1500-2000,False
+750,1840.57,5,2019,Indore,Main Road,Furnished,Duplex,No,613071.0,False,333.09,7,1500-2000,False
+751,1775.17,3,2006,Noida,Main Road,Semi-Furnished,Villa,No,617943.0,False,348.1,20,1500-2000,False
+752,3158.31,2,2013,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,689676.0,False,218.37,13,3000+,False
+753,1591.21,4,2018,Noida,Main Road,Furnished,Independent House,Yes,628948.0,False,395.26,8,1500-2000,False
+754,1848.15,6,1987,Lucknow,Residential Lane,Unfurnished,Independent House,Yes,520115.0,False,281.42,39,1500-2000,False
+755,3242.82,6,2011,Gurugram,Main Road,Unfurnished,Independent House,Yes,879873.0,False,271.33,15,3000+,False
+756,2465.83,4,2018,Delhi,Corner Plot,Furnished,Independent House,No,760151.0,False,308.27,8,2000-2500,False
+757,3486.52,4,1990,Indore,Residential Lane,Semi-Furnished,Villa,Yes,864560.0,False,247.97,36,3000+,False
+758,1918.58,6,1994,Jaipur,Main Road,Unknown,Apartment,No,496056.0,False,258.55,32,1500-2000,False
+759,2085.96,3,2001,Jaipur,Main Road,Unfurnished,Villa,No,607344.0,False,291.16,25,2000-2500,False
+760,2249.67,5,2020,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,543179.0,False,241.45,6,2000-2500,False
+761,2486.28,4,2015,Kanpur,Gated Society,Semi-Furnished,Apartment,No,613200.0,False,246.63,11,2000-2500,False
+762,3130.82,5,1995,Prayagraj,Gated Society,Unfurnished,Independent House,No,736310.0,False,235.18,31,3000+,False
+763,2013.62,6,2021,Kanpur,Highway Facing,Unfurnished,Apartment,No,508271.0,False,252.42,5,2000-2500,False
+764,2131.64,7,2013,Noida,Highway Facing,Semi-Furnished,Duplex,Yes,714091.0,False,335.0,13,2000-2500,False
+765,1136.5,7,1991,Delhi,Main Road,Semi-Furnished,Apartment,No,465512.0,False,409.6,35,1000-1500,False
+766,1138.03,6,2021,Lucknow,Highway Facing,Unfurnished,Independent House,No,400108.0,False,351.58,5,1000-1500,False
+767,1923.04,6,2020,Prayagraj,Main Road,Furnished,Apartment,No,544436.0,False,283.11,6,1500-2000,False
+768,1568.13,5,1990,Prayagraj,Gated Society,Furnished,Independent House,No,497873.0,False,317.49,36,1500-2000,False
+769,1129.02,5,2001,Indore,Corner Plot,Semi-Furnished,Duplex,Yes,481231.0,False,426.24,25,1000-1500,False
+770,3367.11,3,1999,Noida,Residential Lane,Semi-Furnished,Apartment,No,734398.0,False,218.11,27,3000+,False
+771,1661.74,6,2011,Kanpur,Highway Facing,Semi-Furnished,Duplex,No,540625.0,False,325.34,15,1500-2000,False
+772,1734.46,7,1996,Prayagraj,Highway Facing,Semi-Furnished,Independent House,No,524265.0,False,302.26,30,1500-2000,False
+773,1259.96,4,2018,Gurugram,Corner Plot,Semi-Furnished,Duplex,Yes,556128.0,False,441.39,8,1000-1500,False
+774,2618.01,3,2021,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,602547.0,False,230.15,5,2500-3000,False
+775,2216.91,4,2008,Prayagraj,Highway Facing,Semi-Furnished,Villa,Yes,620314.0,False,279.81,18,2000-2500,False
+776,2444.06,4,1996,Jaipur,Highway Facing,Unfurnished,Independent House,No,572811.0,False,234.37,30,2000-2500,False
+777,2157.96,5,1994,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,554435.0,False,256.93,32,2000-2500,False
+778,2197.03,6,2012,Jaipur,Main Road,Unfurnished,Apartment,No,544181.0,False,247.69,14,2000-2500,False
+779,1979.5,3,2024,Gurugram,Residential Lane,Furnished,Apartment,No,573593.0,False,289.77,2,1500-2000,False
+780,2439.38,2,2003,Lucknow,Gated Society,Unknown,Villa,No,684385.0,False,280.56,23,2000-2500,False
+781,2855.1,3,1985,Delhi,Corner Plot,Furnished,Apartment,Yes,717183.0,False,251.19,41,2500-3000,False
+782,1465.28,3,1986,Kanpur,Main Road,Furnished,Duplex,No,451184.0,False,307.92,40,1000-1500,False
+783,2812.25,3,2023,Prayagraj,Highway Facing,Furnished,Villa,No,742729.0,False,264.1,3,2500-3000,False
+784,1998.41,3,2014,Noida,Residential Lane,Semi-Furnished,Apartment,No,531907.0,False,266.17,12,1500-2000,False
+785,1867.16,7,2023,Gurugram,Main Road,Semi-Furnished,Duplex,Yes,730677.0,False,391.33,3,1500-2000,False
+786,1843.12,4,2020,Prayagraj,Corner Plot,Semi-Furnished,Apartment,Yes,511734.0,False,277.65,6,1500-2000,False
+787,1963.26,2,1990,Kanpur,Gated Society,Semi-Furnished,Duplex,Yes,539480.0,False,274.79,36,1500-2000,False
+788,2369.7,6,2001,Kanpur,Gated Society,Semi-Furnished,Duplex,No,679735.0,False,286.84,25,2000-2500,False
+789,2108.85,4,1994,Lucknow,Gated Society,Semi-Furnished,Duplex,No,593038.0,False,281.21,32,2000-2500,False
+790,2296.35,2,2023,Delhi,Residential Lane,Unknown,Apartment,No,574167.0,False,250.03,3,2000-2500,False
+791,2461.57,2,2007,Jaipur,Corner Plot,Semi-Furnished,Villa,Yes,667439.0,False,271.14,19,2000-2500,False
+792,1646.96,4,1990,Noida,Main Road,Semi-Furnished,Independent House,Yes,521881.0,False,316.88,36,1500-2000,False
+793,3521.66,3,2020,Lucknow,Corner Plot,Semi-Furnished,Apartment,Yes,808756.0,False,229.65,6,3000+,False
+794,1263.95,3,2021,Noida,Residential Lane,Furnished,Apartment,No,400808.0,False,317.11,5,1000-1500,False
+795,2541.08,5,2004,Delhi,Residential Lane,Unfurnished,Duplex,No,643518.0,False,253.25,22,2500-3000,False
+796,2901.24,7,2004,Delhi,Gated Society,Semi-Furnished,Apartment,No,812382.0,False,280.01,22,2500-3000,False
+797,2174.56,4,2001,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,491874.0,False,226.19,25,2000-2500,False
+798,3004.37,2,1993,Prayagraj,Gated Society,Furnished,Villa,No,775219.0,False,258.03,33,3000+,False
+799,2138.68,6,1985,Kanpur,Residential Lane,Unfurnished,Independent House,Yes,577915.0,False,270.22,41,2000-2500,False
+800,3614.6,4,1994,Kanpur,Residential Lane,Unfurnished,Apartment,No,668738.0,False,185.01,32,3000+,False
+801,2562.83,6,1992,Prayagraj,Gated Society,Furnished,Duplex,No,693793.0,False,270.71,34,2500-3000,False
+802,1494.98,7,1995,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,419352.0,False,280.51,31,1000-1500,False
+803,1468.11,6,1990,Noida,Main Road,Semi-Furnished,Independent House,Yes,504057.0,False,343.34,36,1000-1500,False
+804,2211.23,7,2009,Indore,Residential Lane,Furnished,Duplex,No,643945.0,False,291.22,17,2000-2500,False
+805,1887.45,5,2007,Delhi,Residential Lane,Furnished,Apartment,No,586634.0,False,310.81,19,1500-2000,False
+806,1928.71,6,2016,Indore,Highway Facing,Semi-Furnished,Apartment,No,488661.0,False,253.36,10,1500-2000,False
+807,2522.74,5,2021,Delhi,Residential Lane,Furnished,Independent House,No,746353.0,False,295.85,5,2500-3000,False
+808,1886.33,4,1986,Delhi,Highway Facing,Semi-Furnished,Villa,No,610715.0,False,323.76,40,1500-2000,False
+809,2141.82,3,2024,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,567484.0,False,264.95,2,2000-2500,False
+810,1477.21,7,2001,Kanpur,Highway Facing,Semi-Furnished,Duplex,No,507577.0,False,343.61,25,1000-1500,False
+811,2364.42,4,2005,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,609185.0,False,257.65,21,2000-2500,False
+812,1389.31,3,2022,Jaipur,Corner Plot,Furnished,Apartment,No,400557.0,False,288.31,4,1000-1500,False
+813,1860.38,5,1986,Kanpur,Gated Society,Unfurnished,Duplex,No,513929.0,False,276.25,40,1500-2000,False
+814,2020.33,2,2001,Kanpur,Gated Society,Semi-Furnished,Duplex,No,538305.0,False,266.44,25,2000-2500,False
+815,1832.87,4,1992,Prayagraj,Corner Plot,Unfurnished,Independent House,Yes,494298.0,False,269.69,34,1500-2000,False
+816,1291.35,7,2017,Lucknow,Residential Lane,Furnished,Apartment,No,429848.0,False,332.87,9,1000-1500,False
+817,1973.94,7,1999,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,533298.0,False,270.17,27,1500-2000,False
+818,8858.26,4,2013,Delhi,Corner Plot,Unfurnished,Apartment,No,1273974.92,True,143.82,13,3000+,True
+819,2290.97,2,1993,Jaipur,Gated Society,Semi-Furnished,Independent House,No,548699.0,False,239.51,33,2000-2500,False
+820,2075.09,7,2020,Delhi,Residential Lane,Unfurnished,Apartment,No,609965.0,False,293.95,6,2000-2500,False
+821,1968.85,4,1995,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,471386.0,False,239.42,31,1500-2000,False
+822,1789.73,4,1993,Jaipur,Residential Lane,Furnished,Independent House,No,487444.0,False,272.36,33,1500-2000,False
+823,1989.23,5,2011,Lucknow,Main Road,Semi-Furnished,Villa,No,653213.0,False,328.37,15,1500-2000,False
+824,2111.77,4,1988,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,525335.0,False,248.77,38,2000-2500,False
+825,3129.05,5,1995,Noida,Corner Plot,Furnished,Duplex,No,861288.0,False,275.26,31,3000+,False
+826,2530.43,4,1993,Kanpur,Main Road,Semi-Furnished,Villa,Yes,689816.0,False,272.61,33,2500-3000,False
+827,2747.18,3,1998,Noida,Residential Lane,Semi-Furnished,Apartment,No,619009.0,False,225.33,28,2500-3000,False
+828,1923.67,6,2008,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,484622.0,False,251.93,18,1500-2000,False
+829,2222.68,5,2007,Jaipur,Gated Society,Semi-Furnished,Apartment,No,599370.0,False,269.66,19,2000-2500,False
+830,3245.15,2,2010,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,757542.0,False,233.44,16,3000+,False
+831,2852.38,3,2011,Lucknow,Corner Plot,Semi-Furnished,Apartment,Yes,695554.0,False,243.85,15,2500-3000,False
+832,1592.59,6,2002,Jaipur,Main Road,Unfurnished,Apartment,No,416426.0,False,261.48,24,1500-2000,False
+833,1874.65,3,1994,Prayagraj,Corner Plot,Semi-Furnished,Duplex,No,465479.0,False,248.3,32,1500-2000,False
+834,1500.98,5,2021,Lucknow,Main Road,Furnished,Independent House,No,517761.0,False,344.95,5,1500-2000,False
+835,2348.53,5,2006,Noida,Residential Lane,Semi-Furnished,Apartment,No,589247.0,False,250.9,20,2000-2500,False
+836,1684.95,4,2002,Noida,Residential Lane,Unfurnished,Apartment,No,406783.0,False,241.42,24,1500-2000,False
+837,2569.27,6,2015,Indore,Main Road,Semi-Furnished,Villa,No,787687.0,False,306.58,11,2500-3000,False
+838,2036.97,2,2016,Delhi,Corner Plot,Unfurnished,Duplex,No,568739.0,False,279.21,10,2000-2500,False
+839,2632.52,4,1999,Delhi,Gated Society,Semi-Furnished,Apartment,No,689382.0,False,261.87,27,2500-3000,False
+840,2199.26,4,1993,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,503304.0,False,228.85,33,2000-2500,False
+841,2141.41,5,2003,Noida,Highway Facing,Furnished,Duplex,No,630502.0,False,294.43,23,2000-2500,False
+842,1874.3,5,2013,Lucknow,Gated Society,Unfurnished,Villa,Yes,692626.0,False,369.54,13,1500-2000,False
+843,1248.36,2,1990,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,420714.0,False,337.01,36,1000-1500,False
+844,2448.1,5,2021,Indore,Residential Lane,Semi-Furnished,Independent House,No,631656.0,False,258.02,5,2000-2500,False
+845,2065.37,6,2015,Jaipur,Corner Plot,Unfurnished,Independent House,No,589617.0,False,285.48,11,2000-2500,False
+846,1905.44,7,2022,Gurugram,Highway Facing,Furnished,Apartment,No,611146.0,False,320.74,4,1500-2000,False
+847,2214.61,7,1997,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,610625.0,False,275.73,29,2000-2500,False
+848,2142.27,2,2013,Noida,Main Road,Unfurnished,Apartment,No,525838.0,False,245.46,13,2000-2500,False
+849,2439.43,7,2009,Indore,Corner Plot,Semi-Furnished,Apartment,No,608409.0,False,249.41,17,2000-2500,False
+850,2270.75,3,1985,Prayagraj,Main Road,Unfurnished,Apartment,No,450512.0,False,198.4,41,2000-2500,False
+851,2043.23,7,2001,Jaipur,Residential Lane,Semi-Furnished,Apartment,Yes,581738.0,False,284.71,25,2000-2500,False
+852,1778.11,7,1990,Indore,Gated Society,Furnished,Apartment,Yes,556191.0,False,312.8,36,1500-2000,False
+853,1884.25,2,1985,Kanpur,Main Road,Furnished,Apartment,No,419106.0,False,222.43,41,1500-2000,False
+854,1514.84,7,1992,Indore,Main Road,Furnished,Duplex,No,546877.0,False,361.01,34,1500-2000,False
+855,1803.2,2,2016,Gurugram,Main Road,Semi-Furnished,Apartment,No,499389.0,False,276.95,10,1500-2000,False
+856,1413.24,6,2001,Lucknow,Corner Plot,Furnished,Independent House,No,504999.0,False,357.33,25,1000-1500,False
+857,831.28,6,1999,Gurugram,Corner Plot,Furnished,Duplex,No,447061.0,False,537.8,27,<1000,False
+858,2258.96,2,2008,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,533074.0,False,235.98,18,2000-2500,False
+859,1985.15,4,2006,Noida,Highway Facing,Furnished,Independent House,Yes,636029.0,False,320.39,20,1500-2000,False
+860,1466.2,4,2005,Jaipur,Corner Plot,Unknown,Independent House,Yes,512052.0,False,349.24,21,1000-1500,False
+861,2573.31,5,2001,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,635520.0,False,246.97,25,2500-3000,False
+862,2363.6,6,2019,Indore,Gated Society,Furnished,Villa,No,782560.0,False,331.09,7,2000-2500,False
+863,2362.38,5,1985,Gurugram,Gated Society,Furnished,Independent House,No,699940.0,False,296.29,41,2000-2500,False
+864,2269.95,4,2000,Noida,Residential Lane,Semi-Furnished,Apartment,No,553365.0,False,243.78,26,2000-2500,False
+865,1679.78,4,2014,Gurugram,Main Road,Semi-Furnished,Independent House,No,563639.0,False,335.54,12,1500-2000,False
+866,2504.46,3,1995,Kanpur,Highway Facing,Furnished,Apartment,No,560917.0,False,223.97,31,2500-3000,False
+867,2140.04,7,1998,Gurugram,Highway Facing,Furnished,Apartment,No,634025.0,False,296.27,28,2000-2500,False
+868,1584.12,2,2015,Kanpur,Gated Society,Semi-Furnished,Independent House,Yes,511388.0,False,322.82,11,1500-2000,False
+869,1049.48,2,2001,Lucknow,Gated Society,Furnished,Villa,Yes,485336.0,False,462.45,25,1000-1500,False
+870,3810.0,5,1987,Lucknow,Residential Lane,Semi-Furnished,Apartment,Yes,809701.0,False,212.52,39,3000+,False
+871,2492.32,5,1988,Lucknow,Highway Facing,Furnished,Duplex,No,642327.0,False,257.72,38,2000-2500,False
+872,1663.45,6,2015,Delhi,Highway Facing,Semi-Furnished,Duplex,No,630978.0,False,379.32,11,1500-2000,False
+873,2258.88,2,1998,Delhi,Highway Facing,Unfurnished,Villa,No,657681.0,False,291.15,28,2000-2500,False
+874,2392.38,5,2010,Gurugram,Highway Facing,Unfurnished,Duplex,No,691366.0,False,288.99,16,2000-2500,False
+875,1386.67,6,2003,Kanpur,Main Road,Unfurnished,Apartment,No,411902.0,False,297.04,23,1000-1500,False
+876,1430.51,2,1996,Kanpur,Main Road,Furnished,Apartment,No,330526.0,False,231.05,30,1000-1500,False
+877,3132.51,5,1994,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,848126.0,False,270.75,32,3000+,False
+878,2098.95,6,2016,Noida,Main Road,Unfurnished,Duplex,Yes,668447.0,False,318.47,10,2000-2500,False
+879,2436.01,7,2002,Prayagraj,Main Road,Unfurnished,Apartment,Yes,631611.0,False,259.28,24,2000-2500,False
+880,2478.22,3,1989,Prayagraj,Residential Lane,Furnished,Independent House,Yes,645516.0,False,260.48,37,2000-2500,False
+881,2480.86,2,2017,Indore,Gated Society,Semi-Furnished,Duplex,Yes,680453.0,False,274.28,9,2000-2500,False
+882,2162.59,5,1996,Delhi,Highway Facing,Unknown,Independent House,No,696907.0,False,322.26,30,2000-2500,False
+883,2378.64,3,1998,Noida,Main Road,Furnished,Villa,No,726365.0,False,305.37,28,2000-2500,False
+884,1299.5,6,2003,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,416729.0,False,320.68,23,1000-1500,False
+885,2411.01,2,2009,Gurugram,Corner Plot,Unfurnished,Apartment,No,569403.0,False,236.17,17,2000-2500,False
+886,2586.69,4,2007,Noida,Corner Plot,Unfurnished,Independent House,No,652905.0,False,252.41,19,2500-3000,False
+887,2656.47,4,1988,Noida,Highway Facing,Semi-Furnished,Apartment,No,597546.0,False,224.94,38,2500-3000,False
+888,1758.46,5,2008,Delhi,Corner Plot,Furnished,Apartment,No,521830.0,False,296.75,18,1500-2000,False
+889,1559.36,3,2000,Kanpur,Corner Plot,Semi-Furnished,Independent House,Yes,457205.0,False,293.2,26,1500-2000,False
+890,2331.92,4,2005,Delhi,Main Road,Semi-Furnished,Independent House,No,692499.0,False,296.97,21,2000-2500,False
+891,1479.16,6,2017,Kanpur,Main Road,Unfurnished,Independent House,Yes,493112.0,False,333.37,9,1000-1500,False
+892,2716.3,3,2015,Noida,Gated Society,Semi-Furnished,Apartment,No,661917.0,False,243.68,11,2500-3000,False
+893,1375.9,7,2009,Kanpur,Highway Facing,Furnished,Independent House,No,511841.0,False,372.0,17,1000-1500,False
+894,1852.87,4,2019,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,457032.0,False,246.66,7,1500-2000,False
+895,1690.9,4,2020,Indore,Residential Lane,Unfurnished,Villa,Yes,560322.0,False,331.38,6,1500-2000,False
+896,2719.79,6,2000,Jaipur,Gated Society,Furnished,Independent House,Yes,795024.0,False,292.31,26,2500-3000,False
+897,1415.25,2,1986,Noida,Gated Society,Unfurnished,Independent House,No,417392.0,False,294.92,40,1000-1500,False
+898,2480.45,5,1988,Jaipur,Gated Society,Furnished,Villa,Yes,793977.0,False,320.09,38,2000-2500,False
+899,2608.95,6,2001,Kanpur,Main Road,Furnished,Independent House,No,707866.0,False,271.32,25,2500-3000,False
+900,2036.72,6,1997,Jaipur,Highway Facing,Unfurnished,Independent House,Yes,601560.0,False,295.36,29,2000-2500,False
+901,2221.48,6,1997,Indore,Highway Facing,Furnished,Independent House,No,632098.0,False,284.54,29,2000-2500,False
+902,3102.57,7,2023,Gurugram,Main Road,Semi-Furnished,Independent House,No,888507.0,False,286.38,3,3000+,False
+903,3083.53,4,1987,Jaipur,Main Road,Semi-Furnished,Apartment,No,682270.0,False,221.26,39,3000+,False
+904,1870.61,7,1988,Jaipur,Main Road,Furnished,Apartment,No,555865.0,False,297.16,38,1500-2000,False
+905,2029.28,6,2007,Noida,Residential Lane,Semi-Furnished,Duplex,Yes,635211.0,False,313.02,19,2000-2500,False
+906,2609.95,7,2013,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,695674.0,False,266.55,13,2500-3000,False
+907,1924.4,4,1992,Noida,Gated Society,Unfurnished,Apartment,No,510822.0,False,265.44,34,1500-2000,False
+908,1876.68,5,2021,Jaipur,Highway Facing,Semi-Furnished,Independent House,Yes,596353.0,False,317.77,5,1500-2000,False
+909,2493.81,3,1985,Lucknow,Main Road,Unfurnished,Duplex,Yes,608805.0,False,244.13,41,2000-2500,False
+910,3689.65,7,2006,Noida,Residential Lane,Furnished,Independent House,No,963079.0,True,261.02,20,3000+,True
+911,2088.25,5,1991,Indore,Highway Facing,Furnished,Independent House,No,554383.0,False,265.48,35,2000-2500,False
+912,3227.73,2,2013,Noida,Highway Facing,Furnished,Apartment,No,745818.0,False,231.07,13,3000+,False
+913,2215.65,6,1994,Indore,Corner Plot,Unfurnished,Apartment,No,518809.0,False,234.16,32,2000-2500,False
+914,2190.89,4,2006,Prayagraj,Main Road,Semi-Furnished,Apartment,No,527060.0,False,240.57,20,2000-2500,False
+915,2264.56,4,2019,Kanpur,Main Road,Furnished,Apartment,Yes,620494.0,False,274.0,7,2000-2500,False
+916,2598.53,5,2011,Delhi,Main Road,Semi-Furnished,Independent House,Yes,801207.0,False,308.33,15,2500-3000,False
+917,1020.53,4,1986,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,249726.0,True,244.7,40,1000-1500,False
+918,1476.95,3,2019,Gurugram,Highway Facing,Furnished,Independent House,No,489544.0,False,331.46,7,1000-1500,False
+919,1461.28,7,1985,Kanpur,Main Road,Semi-Furnished,Apartment,Yes,440910.0,False,301.73,41,1000-1500,False
+920,2632.57,4,1986,Prayagraj,Highway Facing,Unfurnished,Apartment,No,510047.0,False,193.74,40,2500-3000,False
+921,1497.18,5,2024,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,421508.0,False,281.53,2,1000-1500,False
+922,2638.4,5,2015,Prayagraj,Corner Plot,Semi-Furnished,Apartment,Yes,620978.0,False,235.36,11,2500-3000,False
+923,2044.3,5,1993,Indore,Highway Facing,Semi-Furnished,Apartment,Yes,500074.0,False,244.62,33,2000-2500,False
+924,2732.24,6,2006,Lucknow,Residential Lane,Unknown,Independent House,No,698404.0,False,255.62,20,2500-3000,False
+925,1922.89,4,2002,Indore,Main Road,Semi-Furnished,Villa,No,606012.0,False,315.16,24,1500-2000,False
+926,1945.31,5,2023,Delhi,Corner Plot,Furnished,Duplex,No,640439.0,False,329.22,3,1500-2000,False
+927,1415.69,6,1985,Indore,Main Road,Unfurnished,Apartment,No,378914.0,False,267.65,41,1000-1500,False
+928,2518.93,4,1987,Jaipur,Main Road,Semi-Furnished,Villa,No,711065.0,False,282.29,39,2500-3000,False
+929,1471.05,6,2022,Lucknow,Corner Plot,Furnished,Apartment,No,431858.0,False,293.57,4,1000-1500,False
+930,1753.69,6,2024,Kanpur,Corner Plot,Unfurnished,Independent House,Yes,557210.0,False,317.74,2,1500-2000,False
+931,1525.98,4,1997,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,347356.0,False,227.63,29,1500-2000,False
+932,2545.01,3,2020,Noida,Highway Facing,Unfurnished,Duplex,Yes,725112.0,False,284.92,6,2500-3000,False
+933,2638.26,5,2013,Jaipur,Corner Plot,Unfurnished,Apartment,No,599145.0,False,227.1,13,2500-3000,False
+934,2645.82,7,1989,Gurugram,Highway Facing,Furnished,Apartment,Yes,763060.0,False,288.4,37,2500-3000,False
+935,2568.29,4,1992,Delhi,Gated Society,Furnished,Apartment,No,715063.0,False,278.42,34,2500-3000,False
+936,2009.28,4,1988,Noida,Corner Plot,Semi-Furnished,Apartment,No,496325.0,False,247.02,38,2000-2500,False
+937,2085.36,5,2004,Indore,Highway Facing,Furnished,Independent House,No,570302.0,False,273.48,22,2000-2500,False
+938,2019.87,5,1992,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,502364.0,False,248.71,34,2000-2500,False
+939,1768.19,3,2013,Gurugram,Residential Lane,Unfurnished,Apartment,No,433859.0,False,245.37,13,1500-2000,False
+940,2965.62,5,2002,Delhi,Gated Society,Unfurnished,Duplex,No,828612.0,False,279.41,24,2500-3000,False
+941,1797.81,7,1994,Jaipur,Main Road,Semi-Furnished,Duplex,No,592005.0,False,329.29,32,1500-2000,False
+942,2625.65,4,1985,Gurugram,Main Road,Furnished,Independent House,No,724737.0,False,276.02,41,2500-3000,False
+943,2337.86,5,1985,Indore,Corner Plot,Semi-Furnished,Apartment,No,546994.0,False,233.97,41,2000-2500,False
+944,1104.46,6,2021,Noida,Highway Facing,Furnished,Villa,Yes,578103.0,False,523.43,5,1000-1500,False
+945,1834.03,4,2018,Noida,Gated Society,Furnished,Apartment,No,558889.0,False,304.73,8,1500-2000,False
+946,3124.51,3,1999,Delhi,Highway Facing,Furnished,Apartment,No,767255.0,False,245.56,27,3000+,False
+947,2372.95,4,2017,Kanpur,Residential Lane,Furnished,Apartment,No,555734.0,False,234.2,9,2000-2500,False
+948,1485.05,6,1990,Indore,Gated Society,Unfurnished,Apartment,Yes,435255.0,False,293.09,36,1000-1500,False
+949,1930.59,5,2010,Kanpur,Main Road,Furnished,Villa,No,647168.0,False,335.22,16,1500-2000,False
+950,1503.21,5,2020,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,375473.0,False,249.78,6,1500-2000,False
+951,1325.42,5,2003,Delhi,Residential Lane,Unfurnished,Independent House,Yes,436812.0,False,329.56,23,1000-1500,False
+952,1787.84,4,2010,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,497243.0,False,278.12,16,1500-2000,False
+953,1613.6,5,2006,Lucknow,Gated Society,Unfurnished,Independent House,Yes,576355.0,False,357.19,20,1500-2000,False
+954,1841.51,3,1994,Delhi,Gated Society,Furnished,Apartment,No,550517.0,False,298.95,32,1500-2000,False
+955,2071.8,2,1988,Indore,Highway Facing,Furnished,Independent House,Yes,551990.0,False,266.43,38,2000-2500,False
+956,1420.68,4,2003,Jaipur,Main Road,Semi-Furnished,Apartment,Yes,401893.0,False,282.89,23,1000-1500,False
+957,1930.19,4,2019,Delhi,Corner Plot,Unknown,Apartment,No,568335.0,False,294.45,7,1500-2000,False
+958,2604.91,2,1990,Delhi,Highway Facing,Furnished,Apartment,No,614288.0,False,235.82,36,2500-3000,False
+959,1978.9,4,2003,Noida,Corner Plot,Furnished,Apartment,Yes,595384.0,False,300.87,23,1500-2000,False
+960,2218.71,3,2015,Delhi,Residential Lane,Furnished,Apartment,No,622610.0,False,280.62,11,2000-2500,False
+961,1371.41,6,2013,Indore,Highway Facing,Semi-Furnished,Apartment,No,394977.0,False,288.01,13,1000-1500,False
+962,2975.05,2,1985,Noida,Residential Lane,Unfurnished,Duplex,Yes,696735.0,False,234.19,41,2500-3000,False
+963,2043.64,5,2009,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,566017.0,False,276.97,17,2000-2500,False
+964,2973.98,6,2016,Gurugram,Gated Society,Furnished,Apartment,No,821611.0,False,276.27,10,2500-3000,False
+965,1502.22,3,2024,Jaipur,Main Road,Furnished,Apartment,Yes,515158.0,False,342.93,2,1500-2000,False
+966,700.0,5,2015,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,270983.0,False,387.12,11,<1000,False
+967,3053.18,7,1998,Prayagraj,Residential Lane,Unknown,Independent House,No,728654.0,False,238.65,28,3000+,False
+968,2371.15,3,2008,Indore,Highway Facing,Furnished,Independent House,No,588530.0,False,248.2,18,2000-2500,False
+969,2091.45,3,1997,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,582270.0,False,278.4,29,2000-2500,False
+970,2225.54,5,1996,Prayagraj,Residential Lane,Furnished,Apartment,No,508711.0,False,228.58,30,2000-2500,False
+971,3257.0,7,1989,Lucknow,Highway Facing,Furnished,Apartment,Yes,749900.0,False,230.24,37,3000+,False
+972,700.0,3,2010,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,335518.0,False,479.31,16,<1000,False
+973,2415.17,5,2011,Delhi,Main Road,Semi-Furnished,Apartment,Yes,720602.0,False,298.36,15,2000-2500,False
+974,2123.11,5,2005,Jaipur,Gated Society,Unfurnished,Apartment,No,541348.0,False,254.98,21,2000-2500,False
+975,2093.68,4,2001,Delhi,Residential Lane,Unfurnished,Independent House,No,611751.0,False,292.19,25,2000-2500,False
+976,2126.85,6,2017,Jaipur,Corner Plot,Unfurnished,Apartment,No,520857.0,False,244.9,9,2000-2500,False
+977,2486.21,5,1993,Delhi,Corner Plot,Unfurnished,Apartment,No,626427.0,False,251.96,33,2000-2500,False
+978,2159.53,4,2009,Indore,Main Road,Semi-Furnished,Apartment,No,545906.0,False,252.79,17,2000-2500,False
+979,3001.86,5,2022,Delhi,Highway Facing,Furnished,Apartment,No,822372.0,False,273.95,4,3000+,False
+980,3008.38,4,2014,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,721908.0,False,239.97,12,3000+,False
+981,1496.15,4,2007,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,415259.0,False,277.55,19,1000-1500,False
+982,2056.11,7,1991,Indore,Highway Facing,Semi-Furnished,Apartment,No,490359.0,False,238.49,35,2000-2500,False
+983,2267.61,4,2013,Jaipur,Gated Society,Semi-Furnished,Duplex,No,640963.0,False,282.66,13,2000-2500,False
+984,2799.25,6,1990,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,690441.0,False,246.65,36,2500-3000,False
+985,2400.97,4,2007,Noida,Corner Plot,Unfurnished,Apartment,No,578269.0,False,240.85,19,2000-2500,False
+986,2481.93,6,2004,Indore,Residential Lane,Furnished,Apartment,No,602814.0,False,242.88,22,2000-2500,False
+987,1811.63,6,1997,Delhi,Gated Society,Furnished,Independent House,No,653566.0,False,360.76,29,1500-2000,False
+988,1981.59,4,2004,Kanpur,Highway Facing,Furnished,Independent House,No,538539.0,False,271.77,22,1500-2000,False
+989,1516.8,5,2017,Indore,Main Road,Unfurnished,Independent House,No,496976.0,False,327.65,9,1500-2000,False
+990,2390.68,6,1993,Jaipur,Main Road,Furnished,Villa,No,726191.0,False,303.76,33,2000-2500,False
+991,2559.98,6,2015,Kanpur,Highway Facing,Unfurnished,Apartment,No,580428.0,False,226.73,11,2500-3000,False
+992,2700.0,4,1990,Lucknow,Residential Lane,Furnished,Apartment,Yes,610911.0,False,226.26,36,2500-3000,False
+993,2343.45,7,2010,Noida,Gated Society,Furnished,Apartment,No,715475.0,False,305.31,16,2000-2500,False
+994,1651.08,5,1997,Prayagraj,Gated Society,Furnished,Duplex,Yes,572534.0,False,346.76,29,1500-2000,False
+995,1977.2,3,1988,Delhi,Main Road,Furnished,Apartment,No,565708.0,False,286.12,38,1500-2000,False
+996,1588.52,3,2013,Kanpur,Gated Society,Furnished,Apartment,No,430739.0,False,271.16,13,1500-2000,False
+997,2131.1,5,2023,Indore,Gated Society,Unfurnished,Duplex,No,607874.0,False,285.24,3,2000-2500,False
+998,2855.1,4,1996,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,687675.0,False,240.86,30,2500-3000,False
+999,2174.67,5,2005,Indore,Main Road,Unfurnished,Apartment,No,511356.0,False,235.14,21,2000-2500,False
+1000,2988.87,2,2012,Lucknow,Gated Society,Semi-Furnished,Duplex,Yes,780922.0,False,261.28,14,2500-3000,False
+1001,3159.52,7,2008,Jaipur,Corner Plot,Semi-Furnished,Villa,No,896391.0,False,283.71,18,3000+,False
+1002,1440.03,5,1999,Gurugram,Main Road,Semi-Furnished,Apartment,No,434716.0,False,301.88,27,1000-1500,False
+1003,1941.51,5,2011,Delhi,Gated Society,Semi-Furnished,Duplex,No,683380.0,False,351.98,15,1500-2000,False
+1004,2766.86,4,1991,Lucknow,Gated Society,Furnished,Apartment,Yes,709113.0,False,256.29,35,2500-3000,False
+1005,2159.05,7,1988,Kanpur,Highway Facing,Unfurnished,Apartment,Yes,548660.0,False,254.12,38,2000-2500,False
+1006,2853.25,2,2004,Noida,Highway Facing,Furnished,Apartment,Yes,677213.0,False,237.35,22,2500-3000,False
+1007,2404.09,2,1989,Gurugram,Highway Facing,Furnished,Independent House,No,619572.0,False,257.72,37,2000-2500,False
+1008,3117.23,6,1995,Delhi,Main Road,Semi-Furnished,Independent House,No,866679.0,False,278.03,31,3000+,False
+1009,3107.82,7,1994,Delhi,Highway Facing,Furnished,Independent House,No,860681.0,False,276.94,32,3000+,False
+1010,2081.56,6,1985,Gurugram,Corner Plot,Unfurnished,Independent House,No,609554.0,False,292.84,41,2000-2500,False
+1011,1777.17,5,2012,Gurugram,Residential Lane,Furnished,Independent House,No,596702.0,False,335.76,14,1500-2000,False
+1012,2576.45,4,2006,Kanpur,Gated Society,Furnished,Villa,No,746579.0,False,289.77,20,2500-3000,False
+1013,2089.89,4,2010,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,597366.0,False,285.84,16,2000-2500,False
+1014,1129.97,2,1996,Lucknow,Highway Facing,Unknown,Independent House,No,303144.0,False,268.28,30,1000-1500,False
+1015,2118.26,5,2010,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,517768.0,False,244.43,16,2000-2500,False
+1016,2198.7,5,1994,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,598581.0,False,272.24,32,2000-2500,False
+1017,2196.0,3,1987,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,475803.0,False,216.67,39,2000-2500,False
+1018,2655.07,6,1997,Indore,Main Road,Unknown,Independent House,No,707987.0,False,266.65,29,2500-3000,False
+1019,2206.57,2,2010,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,541646.0,False,245.47,16,2000-2500,False
+1020,2887.2,7,2017,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,753011.0,False,260.81,9,2500-3000,False
+1021,2283.27,3,2018,Prayagraj,Highway Facing,Unfurnished,Villa,No,604921.0,False,264.94,8,2000-2500,False
+1022,3263.35,6,2009,Indore,Gated Society,Semi-Furnished,Independent House,No,837624.0,False,256.68,17,3000+,False
+1023,3029.44,3,1995,Indore,Residential Lane,Furnished,Independent House,Yes,752510.0,False,248.4,31,3000+,False
+1024,2302.84,5,1986,Indore,Gated Society,Semi-Furnished,Independent House,Yes,644115.0,False,279.7,40,2000-2500,False
+1025,1319.59,3,1996,Lucknow,Corner Plot,Furnished,Apartment,No,326582.0,False,247.49,30,1000-1500,False
+1026,2326.88,6,2001,Gurugram,Residential Lane,Furnished,Apartment,Yes,663138.0,False,284.99,25,2000-2500,False
+1027,7808.57,7,2005,Jaipur,Main Road,Furnished,Independent House,No,1353997.69,True,173.4,21,3000+,True
+1028,2347.42,5,2015,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,606249.0,False,258.26,11,2000-2500,False
+1029,1778.1,7,2024,Jaipur,Residential Lane,Unfurnished,Apartment,No,488949.0,False,274.98,2,1500-2000,False
+1030,2073.28,6,2019,Gurugram,Residential Lane,Unfurnished,Apartment,Yes,586039.0,False,282.66,7,2000-2500,False
+1031,2437.79,5,2004,Noida,Corner Plot,Semi-Furnished,Apartment,No,611494.0,False,250.84,22,2000-2500,False
+1032,3073.95,7,2023,Kanpur,Corner Plot,Semi-Furnished,Villa,No,863975.0,False,281.06,3,3000+,False
+1033,1963.7,4,1998,Delhi,Main Road,Semi-Furnished,Independent House,No,584246.0,False,297.52,28,1500-2000,False
+1034,2754.32,4,2023,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,621367.0,False,225.6,3,2500-3000,False
+1035,2870.26,6,1996,Kanpur,Residential Lane,Unfurnished,Apartment,No,616245.0,False,214.7,30,2500-3000,False
+1036,3666.8,7,1997,Kanpur,Gated Society,Unfurnished,Apartment,No,823572.0,False,224.6,29,3000+,False
+1037,2326.53,3,2016,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,572398.0,False,246.03,10,2000-2500,False
+1038,2097.13,7,1992,Gurugram,Corner Plot,Furnished,Independent House,Yes,742468.0,False,354.04,34,2000-2500,False
+1039,2549.26,7,1995,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,668968.0,False,262.42,31,2500-3000,False
+1040,2959.11,5,1989,Noida,Highway Facing,Furnished,Villa,No,853016.0,False,288.27,37,2500-3000,False
+1041,1054.87,7,1990,Jaipur,Corner Plot,Furnished,Apartment,No,393976.0,False,373.48,36,1000-1500,False
+1042,2046.36,2,1992,Jaipur,Gated Society,Unfurnished,Apartment,No,453081.0,False,221.41,34,2000-2500,False
+1043,2228.8,5,1998,Indore,Corner Plot,Semi-Furnished,Duplex,No,604770.0,False,271.34,28,2000-2500,False
+1044,10267.12,7,1990,Indore,Main Road,Semi-Furnished,Villa,Yes,2071401.84,True,201.75,36,3000+,True
+1045,3326.79,2,2015,Delhi,Main Road,Furnished,Independent House,No,836563.0,False,251.46,11,3000+,False
+1046,1563.68,7,1996,Jaipur,Residential Lane,Furnished,Apartment,No,472668.0,False,302.28,30,1500-2000,False
+1047,2402.34,6,1992,Noida,Corner Plot,Semi-Furnished,Apartment,No,611361.0,False,254.49,34,2000-2500,False
+1048,2621.51,7,1989,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,610022.0,False,232.7,37,2500-3000,False
+1049,1150.02,5,2018,Prayagraj,Residential Lane,Furnished,Villa,No,496056.0,False,431.35,8,1000-1500,False
+1050,2482.47,4,2009,Delhi,Gated Society,Semi-Furnished,Apartment,No,665865.0,False,268.23,17,2000-2500,False
+1051,2999.1,5,2013,Kanpur,Gated Society,Semi-Furnished,Independent House,No,723703.0,False,241.31,13,2500-3000,False
+1052,2863.2,5,1993,Indore,Residential Lane,Semi-Furnished,Apartment,No,608714.0,False,212.6,33,2500-3000,False
+1053,1686.22,5,2016,Delhi,Highway Facing,Furnished,Apartment,No,587575.0,False,348.46,10,1500-2000,False
+1054,2030.07,5,2005,Indore,Gated Society,Semi-Furnished,Apartment,No,499530.0,False,246.07,21,2000-2500,False
+1055,2657.48,7,2001,Delhi,Corner Plot,Furnished,Apartment,No,763812.0,False,287.42,25,2500-3000,False
+1056,3321.08,2,1997,Kanpur,Highway Facing,Semi-Furnished,Independent House,Yes,734995.0,False,221.31,29,3000+,False
+1057,2760.35,4,2012,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,609974.0,False,220.98,14,2500-3000,False
+1058,1661.38,6,1991,Noida,Residential Lane,Semi-Furnished,Villa,No,592390.0,False,356.57,35,1500-2000,False
+1059,3164.26,7,2001,Lucknow,Residential Lane,Unfurnished,Apartment,No,700394.0,False,221.35,25,3000+,False
+1060,1189.6,5,1993,Noida,Gated Society,Semi-Furnished,Duplex,Yes,488419.0,False,410.57,33,1000-1500,False
+1061,2935.01,4,1998,Jaipur,Main Road,Semi-Furnished,Duplex,No,733763.0,False,250.0,28,2500-3000,False
+1062,1895.83,5,1993,Delhi,Highway Facing,Semi-Furnished,Apartment,No,555886.0,False,293.22,33,1500-2000,False
+1063,2739.35,5,1996,Jaipur,Main Road,Furnished,Apartment,No,639892.0,False,233.59,30,2500-3000,False
+1064,1080.93,2,1989,Kanpur,Gated Society,Unfurnished,Apartment,No,248640.0,True,230.02,37,1000-1500,False
+1065,1989.29,6,1994,Jaipur,Gated Society,Unfurnished,Apartment,No,515876.0,False,259.33,32,1500-2000,False
+1066,2852.55,5,2015,Noida,Residential Lane,Unfurnished,Villa,No,760414.0,False,266.57,11,2500-3000,False
+1067,2040.5,5,2013,Jaipur,Highway Facing,Unknown,Independent House,No,549826.0,False,269.46,13,2000-2500,False
+1068,1079.9,4,1992,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,318597.0,False,295.02,34,1000-1500,False
+1069,2373.93,4,2010,Lucknow,Main Road,Furnished,Independent House,No,658515.0,False,277.39,16,2000-2500,False
+1070,1240.98,7,2012,Noida,Residential Lane,Unfurnished,Apartment,No,418999.0,False,337.64,14,1000-1500,False
+1071,2230.3,3,1989,Prayagraj,Highway Facing,Semi-Furnished,Independent House,Yes,562880.0,False,252.38,37,2000-2500,False
+1072,1869.17,3,2004,Prayagraj,Corner Plot,Furnished,Duplex,No,530841.0,False,284.0,22,1500-2000,False
+1073,1211.77,4,1992,Prayagraj,Corner Plot,Unknown,Duplex,No,403417.0,False,332.92,34,1000-1500,False
+1074,1730.4,3,1999,Indore,Gated Society,Furnished,Apartment,No,452494.0,False,261.5,27,1500-2000,False
+1075,1685.81,2,2018,Indore,Highway Facing,Furnished,Apartment,No,425631.0,False,252.48,8,1500-2000,False
+1076,3588.59,3,2012,Kanpur,Highway Facing,Unfurnished,Independent House,No,746609.0,False,208.05,14,3000+,False
+1077,2210.7,3,2015,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,496171.0,False,224.44,11,2000-2500,False
+1078,2440.3,4,1996,Noida,Main Road,Unfurnished,Apartment,Yes,619353.0,False,253.8,30,2000-2500,False
+1079,2889.45,7,2008,Kanpur,Gated Society,Semi-Furnished,Independent House,No,803015.0,False,277.91,18,2500-3000,False
+1080,1349.53,5,2003,Gurugram,Corner Plot,Furnished,Apartment,No,452776.0,False,335.51,23,1000-1500,False
+1081,2329.07,4,2008,Kanpur,Corner Plot,Unknown,Independent House,No,605846.0,False,260.12,18,2000-2500,False
+1082,1602.01,6,2006,Kanpur,Corner Plot,Semi-Furnished,Duplex,No,532257.0,False,332.24,20,1500-2000,False
+1083,700.0,6,1998,Indore,Corner Plot,Semi-Furnished,Apartment,No,264649.0,False,378.07,28,<1000,False
+1084,2765.74,4,2010,Gurugram,Highway Facing,Unfurnished,Apartment,Yes,680443.0,False,246.03,16,2500-3000,False
+1085,2450.94,4,1994,Indore,Main Road,Furnished,Apartment,No,529965.0,False,216.23,32,2000-2500,False
+1086,1801.12,7,2010,Jaipur,Gated Society,Unfurnished,Duplex,No,586093.0,False,325.4,16,1500-2000,False
+1087,1465.76,5,1990,Lucknow,Gated Society,Semi-Furnished,Apartment,No,435487.0,False,297.11,36,1000-1500,False
+1088,2461.05,7,1988,Noida,Corner Plot,Unfurnished,Duplex,No,699925.0,False,284.4,38,2000-2500,False
+1089,3558.17,7,1989,Kanpur,Highway Facing,Unfurnished,Apartment,No,736329.0,False,206.94,37,3000+,False
+1090,2179.88,4,2011,Prayagraj,Residential Lane,Semi-Furnished,Duplex,No,533498.0,False,244.74,15,2000-2500,False
+1091,3022.32,4,2011,Gurugram,Residential Lane,Unfurnished,Independent House,Yes,780760.0,False,258.33,15,3000+,False
