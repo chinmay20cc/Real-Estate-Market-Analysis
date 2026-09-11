@@ -1,107 +1,104 @@
 # Real Estate Market Analysis
 
-An end-to-end real estate property market analysis project using Python, MySQL, and Power BI.
+An end-to-end Real Estate Property Market Analysis project using Python, MySQL, SQL, Power BI, and automated reporting.
+
+The project analyzes property listings across major Indian cities to identify pricing patterns, property characteristics, city-level demand, and investment-oriented insights.
+
+---
 
 ## Project Overview
 
-This project analyzes residential property data across major cities in India to identify pricing patterns, location-level differences, property-type trends, and factors influencing property prices.
+This project follows a complete data analytics workflow:
 
-The project follows a complete data analytics workflow:
+**Raw Dataset → Data Cleaning → SQL Analysis → Exploratory Data Analysis → Data Visualization → Automated PDF Report → Power BI Dashboard → Business Insights**
 
-**Raw Data → Data Cleaning → SQL Analysis → Exploratory Data Analysis → Visualization → Business Insights → Power BI Dashboard**
+The analysis is based on a real-world property dataset containing information about property area, bedrooms, construction year, city, street type, furnishing, property type, swimming pool availability, and price.
+
+---
 
 ## Objectives
 
-- Analyze property prices across different cities
-- Compare property types and their average prices
-- Study the relationship between property area and price
-- Analyze price per square foot
-- Understand bedroom-wise property distribution
-- Identify luxury properties and price outliers
-- Analyze the effect of furnishing and swimming pools on property prices
-- Identify useful insights for buyers and investors
+- Clean and preprocess the raw real estate dataset.
+- Perform SQL-based market analysis using MySQL.
+- Conduct exploratory data analysis using Python.
+- Identify relationships between property characteristics and prices.
+- Analyze city-level property demand and pricing.
+- Compare property types and their price performance.
+- Analyze price per square foot.
+- Identify luxury and price-outlier properties.
+- Build an interactive Power BI dashboard.
+- Generate an automated PDF market analysis report.
+- Extract actionable business and investment insights.
+
+---
 
 ## Dataset
 
-The project uses a real estate property dataset containing information about:
+The project uses the `dataset_2.csv` real estate dataset.
 
-- Area in square feet
-- Number of bedrooms
-- Build year
-- City
-- Street type
-- Furnishing status
-- Property type
-- Swimming pool availability
-- Property price
+### Original Dataset
 
-### Dataset Size
+- **Rows:** 1,124
+- **Columns:** 9
 
-| Stage | Rows | Columns |
-|---|---:|---:|
-| Raw dataset | 1,124 | 9 |
-| Cleaned dataset | 1,091 | 15 |
+### Original Columns
 
-During cleaning:
+| Column | Description |
+|---|---|
+| Area_SqFt | Property area in square feet |
+| Rooms | Number of bedrooms/rooms |
+| Build_Year | Year the property was built |
+| Location | Property location/city |
+| Street_Type | Type of street |
+| Furnishing | Furnishing status |
+| Property_Type | Type of property |
+| Has_Pool | Swimming pool availability |
+| Price | Property price |
 
-- 33 records with missing price or area values were removed
-- Duplicate records were checked
-- 15 price outliers were flagged using the IQR method
-- Engineered features were created for analysis
+### Cities Covered
 
-## Technologies Used
+- Delhi
+- Noida
+- Gurugram
+- Lucknow
+- Kanpur
+- Jaipur
+- Indore
+- Prayagraj
 
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-  - ReportLab
+### Property Types
 
-- **MySQL**
-  - Data storage
-  - SQL analysis
-  - Aggregations
-  - Ranking
-  - Filtering
+- Apartment
+- Independent House
+- Duplex
+- Villa
 
-- **Power BI**
-  - Interactive dashboard
-  - KPI cards
-  - Slicers
-  - Charts
-  - Property and location analysis
+---
 
-- **Jupyter Notebook**
-  - Exploratory Data Analysis
+## Data Cleaning
 
-## Project Structure
+The raw dataset was cleaned and standardized using Python.
+
+### Cleaning Results
+
+- **Raw records:** 1,124
+- **Cleaned records:** 1,091
+- **Rows removed:** 33
+- **Duplicate rows:** 0
+
+Rows with missing or invalid values in important fields such as price and area were removed.
+
+### Standardized Columns
+
+The original column names were converted into a consistent naming convention:
 
 ```text
-Real-Estate-Market-Analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── house_prices.csv
-│   └── processed/
-│       └── cleaned_properties.csv
-│
-├── notebooks/
-│   └── 02_eda.ipynb
-│
-├── reports/
-│   ├── charts/
-│   └── Real_Estate_Market_Report.pdf
-│
-├── sql/
-│   ├── 01_create_schema.sql
-│   └── 03_analysis_queries.sql
-│
-├── src/
-│   ├── clean_data.py
-│   ├── generate_charts.py
-│   └── generate_report.py
-│
-├── docs/
-├── .gitignore
-└── README.md
+Area_SqFt     → area_sqft
+Rooms         → bedrooms
+Build_Year    → build_year
+Location      → city
+Street_Type   → street_type
+Furnishing    → furnishing
+Property_Type → property_type
+Has_Pool      → has_pool
+Price         → price
